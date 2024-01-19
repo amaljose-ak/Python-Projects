@@ -1,0 +1,701 @@
+Rank,Name,Industry,Revenue (USD millions),Revenue growth,Employees,Headquarters
+1,Walmart,Retail,"611,289",6.7%,"2,100,000","Bentonville, Arkansas"
+2,Amazon,Retail and cloud computing,"513,983",9.4%,"1,540,000","Seattle, Washington"
+3,ExxonMobil,Petroleum industry,"413,680",44.8%,"62,000","Spring, Texas"
+4,Apple,Electronics industry,"394,328",7.8%,"164,000","Cupertino, California"
+5,UnitedHealth Group,Healthcare,"324,162",12.7%,"400,000","Minnetonka, Minnesota"
+6,CVS Health,Healthcare,"322,467",10.4%,"259,500","Woonsocket, Rhode Island"
+7,Berkshire Hathaway,Conglomerate,"302,089",9.4%,"383,000","Omaha, Nebraska"
+8,Alphabet,Technology and Cloud Computing,"282,836",9.8%,"156,000","Mountain View, California"
+9,McKesson Corporation,Health,"276,711",4.8%,"48,500","Irving, Texas"
+10,Chevron Corporation,Petroleum industry,"246,252",51.6%,"43,846","San Ramon, California"
+11,AmerisourceBergen,Pharmaceutical industry,"238,587",11.5%,"41,500","Chesterbrook, Pennsylvania"
+12,Costco,Retail,"226,954",15.8%,"304,000","Issaquah, Washington"
+13,Microsoft,Technology and Cloud Computing,"198,270",18.0%,"221,000","Redmond, Washington"
+14,Cardinal Health,Healthcare,"181,364",11.6%,"46,035","Dublin, Ohio"
+15,Cigna,Health Insurance,"180,516",3.7%,"70,231","Bloomfield, Connecticut"
+16,Marathon Petroleum,Petroleum industry,"180,012",27.6%,"17,800","Findlay, Ohio"
+17,Phillips 66,Petroleum industry,"175,702",53.0%,"13,000","Houston, Texas"
+18,Valero Energy,Petroleum industry,"171,189",58.0%,"9,743","San Antonio, Texas"
+19,Ford Motor Company,Automotive industry,"158,057",15.9%,"173,000","Dearborn, Michigan"
+20,The Home Depot,Retail,"157,403",4.1%,"471,600","Atlanta, Georgia"
+21,General Motors,Automotive industry,"156,735",23.4%,"167,000","Detroit, Michigan"
+22,Elevance Health,Healthcare,"156,595",13.0%,"102,200","Indianapolis, Indiana"
+23,JPMorgan Chase,Financial services,"154,792",21.7%,"293,723","New York City, New York"
+24,Kroger,Retail,"148,258",7.5%,"430,000","Cincinnati, Ohio"
+25,Centene,Healthcare,"144,547",14.7%,"74,300","St. Louis, Missouri"
+26,Verizon Communications,Telecommunications,"136,835",2.4%,"117,100","New York City, New York"
+27,Walgreens Boots Alliance,Pharmaceutical industry,"132,703",10.7%,"262,500","Deerfield, Illinois"
+28,Fannie Mae,Financials,"121,596",19.7%,"8,000","Washington, D.C."
+29,Comcast,Telecommunications,"121,427",4.3%,"186,000","Philadelphia, Pennsylvania"
+30,AT&T,Conglomerate and Telecomunications,"120,741",28.5%,"160,700","Dallas, Texas"
+31,Meta Platforms,Technology,"116,609",1.1%,"86,482","Menlo Park, California"
+32,Bank of America,Financials,"115,053",22.6%,"216,823","Charlotte, North Carolina"
+33,Target Corporation,Retail,"109,120",2.9%,"440,000","Minneapolis, Minnesota"
+34,Dell Technologies,Technology,"102,301",4.4%,"133,000","Round Rock, Texas"
+35,Archer Daniels Midland,Food industry,"101,556",19.1%,"41,181","Chicago, Illinois"
+36,Citigroup,Financials,"101,078",26.6%,"238,104","New York City, New York"
+37,United Parcel Service,Transportation,"100,338",3.1%,"404,700","Atlanta, Georgia"
+38,Pfizer,Pharmaceutical industry,"100,330",23.4%,"83,000","New York City, New York"
+39,Lowe's,Retail,"97,059",0.8%,"244,500","Mooresville, North Carolina"
+40,Johnson & Johnson,Pharmaceutical industry,"94,943",1.2%,"152,700","New Brunswick, New Jersey"
+41,FedEx,Transportation,"93,512",11.4%,"518,249","Memphis, Tennessee"
+42,Humana,Health Insurance,"92,870",11.8%,"67,100","Louisville, Kentucky"
+43,Energy Transfer Partners,Petroleum industry,"89,876",33.3%,"12,565","Dallas, Texas"
+44,State Farm,Financials,"89,328",8.6%,"60,519","Bloomington, Illinois"
+45,Freddie Mac,Financials,"86,717",31.6%,"7,819","McLean, Virginia"
+46,PepsiCo,Beverage,"86,859",8.7%,"315,000","Purchase, New York"
+47,Wells Fargo,Financials,"82,859",0.5%,"238,000","San Francisco, California"
+48,The Walt Disney Company,Media,"82,722",22.7%,"195,800","Burbank, California"
+49,ConocoPhillips,Petroleum industry,"82,156",69.9%,"9,500","Houston, Texas"
+50,Tesla,Automotive and Energy,"81,462",51.4%,"127,855","Austin, Texas"
+51,Procter & Gamble,Consumer products Manufacturing,"80,187",5.3%,"106,000","Cincinnati, Ohio"
+52,United States Postal Service,Logistics,"78,620",2.0%,"576,000","Washington, D.C."
+53,Albertsons,Retail,"77,650",8.0%,"198,650","Boise, Idaho"
+54,General Electric,Conglomerate,"76,555",3.2%,"172,000","Boston, Massachusetts"
+55,MetLife,Financials,"69,898",1.7%,"45,000","New York City, New York"
+56,Goldman Sachs,Financials,"68,711",5.7%,"48,500","New York City, New York"
+57,Sysco,Food Service,"68,636",33.8%,"70,510","Houston, Texas"
+58,Bunge Limited,Food industry,"67,232",13.7%,"23,000","White Plains, New York"
+59,RTX Corporation,Conglomerate,"67,074",4.2%,"182,000","Arlington County, Virginia"
+60,Boeing,Aerospace and defense,"66,608",6.9%,"156,000","Arlington County, Virginia"
+61,StoneX Group,Financials,"66,036",55.3%,305,"New York City, New York"
+62,Lockheed Martin,Aerospace and Defense,"65,984",1.6%,"116,000","Bethesda, Maryland"
+63,Morgan Stanley,Financials,"65,936",7.9%,"82,427","New York City, New York"
+64,Intel,Technology,"63,054",20.1%,"131,900","Santa Clara, California"
+65,HP,Technology,"62,983",0.8%,"58,000","Palo Alto, California"
+66,TD Synnex,Infotech,"62,344",97.2%,"28,500","Clearwater, Florida"
+67,IBM,Technology and Cloud Computing,"60,530",16.3%,"303,100","Armonk, New York"
+68,HCA Healthcare,Healthcare,"60,233",2.5%,"250,500","Nashville, Tennessee"
+69,Prudential Financial,Financials,"60,050",15.3%,"39,583","Newark, New Jersey"
+70,Caterpillar,Machinery,"59,427",16.6%,"109,100","Deerfield, Illinois"
+71,Merck & Co.,Pharmaceutical industry,"59,283",15.8%,"68,000","Kenilworth, New Jersey"
+72,World Fuel Services,Petroleum industry and Logistics,"59,043",88.4%,"5,214","Miami, Florida"
+73,New York Life Insurance Company,Insurance,"58,445",14.2%,"15,050","New York City, New York"
+74,Enterprise Products,Petroleum industry,"58,186",42.6%,"7,300","Houston, Texas"
+75,AbbVie,Pharmaceutical industry,"58,054",3.3%,"50,000","Lake Bluff, Illinois"
+76,Plains All American Pipeline,Petroleum industry,"57,342",36.3%,"4,100","Houston, Texas"
+77,Dow Chemical Company,Chemical industry,"56,902",3.5%,"37,800","Midland, Michigan"
+78,AIG,Insurance,"56,437",8.4%,"26,200","New York City, New York"
+79,American Express,Financial,"55,625",27.3%,"77,300","New York City, New York"
+80,Publix,Retail,"54,942",13.5%,"242,000","Lakeland, Florida"
+81,Charter Communications,Telecommunications,"54,022",4.5%,"101,700","Stamford, Connecticut"
+82,Tyson Foods,Food Processing,"53,282",13.2%,"142,000","Springdale, Arkansas"
+83,John Deere,Agriculture manufacturing,"52,577",19.4%,"82,239","Moline, Illinois"
+84,Cisco,Telecom Hardware Manufacturing,"51,557",3.5%,"83,300","San Jose, California"
+85,Nationwide Mutual Insurance Company,Financial,"51,450",8.6%,"24,791","Columbus, Ohio"
+86,Allstate,Insurance,"51,412",3.4%,"54,250","Northfield Township, Cook County, Illinois"
+87,Delta Air Lines,Airline,"50,582",69.2%,"95,000","Atlanta, Georgia"
+88,Liberty Mutual,Insurance,"49,956",3.6%,"50,000","Boston, Massachusetts"
+89,TJX,Retail,"49,936",2.9%,"329,000","Framingham, Massachusetts"
+90,Progressive Corporation,Insurance,"49,611",4.0%,"55,063","Mayfield Village, Ohio"
+91,American Airlines,Airline,"48,971",63.9%,"129,700","Fort Worth, Texas"
+92,CHS,Agriculture cooperative,"47,194",24.3%,"10,014","Inver Grove Heights, Minnesota"
+93,Performance Food Group,Food Processing,"47,194",61.6%,"34,825","Richmond, Virginia"
+94,PBF Energy,Petroleum industry,"46,830",71.8%,"3,616","Parsippany–Troy Hills, New Jersey"
+95,Nike,Apparel,"46,710",4.9%,"79,100","Beaverton, Oregon"
+96,Best Buy,Retail,"46,298",10.6%,"71,100","Richfield, Minnesota"
+97,Bristol-Myers Squibb,Pharmaceutical industry,"46,159",0.5%,"34,300","New York City, New York"
+98,United Airlines,Airline,"44,955",82.5%,"92,795","Chicago, Illinois"
+99,Thermo Fisher Scientific,Laboratory instruments,"44,915",14.5%,"130,000","Waltham, Massachusetts"
+100,Qualcomm,Technology,"44,200",31.7%,"51,000","San Diego, California"
+1,Walmart,Retail,"611,289",6.7%,"2,100,000","Bentonville, Arkansas"
+2,Amazon,Retail and cloud computing,"513,983",9.4%,"1,540,000","Seattle, Washington"
+3,ExxonMobil,Petroleum industry,"413,680",44.8%,"62,000","Spring, Texas"
+4,Apple,Electronics industry,"394,328",7.8%,"164,000","Cupertino, California"
+5,UnitedHealth Group,Healthcare,"324,162",12.7%,"400,000","Minnetonka, Minnesota"
+6,CVS Health,Healthcare,"322,467",10.4%,"259,500","Woonsocket, Rhode Island"
+7,Berkshire Hathaway,Conglomerate,"302,089",9.4%,"383,000","Omaha, Nebraska"
+8,Alphabet,Technology and Cloud Computing,"282,836",9.8%,"156,000","Mountain View, California"
+9,McKesson Corporation,Health,"276,711",4.8%,"48,500","Irving, Texas"
+10,Chevron Corporation,Petroleum industry,"246,252",51.6%,"43,846","San Ramon, California"
+11,AmerisourceBergen,Pharmaceutical industry,"238,587",11.5%,"41,500","Chesterbrook, Pennsylvania"
+12,Costco,Retail,"226,954",15.8%,"304,000","Issaquah, Washington"
+13,Microsoft,Technology and Cloud Computing,"198,270",18.0%,"221,000","Redmond, Washington"
+14,Cardinal Health,Healthcare,"181,364",11.6%,"46,035","Dublin, Ohio"
+15,Cigna,Health Insurance,"180,516",3.7%,"70,231","Bloomfield, Connecticut"
+16,Marathon Petroleum,Petroleum industry,"180,012",27.6%,"17,800","Findlay, Ohio"
+17,Phillips 66,Petroleum industry,"175,702",53.0%,"13,000","Houston, Texas"
+18,Valero Energy,Petroleum industry,"171,189",58.0%,"9,743","San Antonio, Texas"
+19,Ford Motor Company,Automotive industry,"158,057",15.9%,"173,000","Dearborn, Michigan"
+20,The Home Depot,Retail,"157,403",4.1%,"471,600","Atlanta, Georgia"
+21,General Motors,Automotive industry,"156,735",23.4%,"167,000","Detroit, Michigan"
+22,Elevance Health,Healthcare,"156,595",13.0%,"102,200","Indianapolis, Indiana"
+23,JPMorgan Chase,Financial services,"154,792",21.7%,"293,723","New York City, New York"
+24,Kroger,Retail,"148,258",7.5%,"430,000","Cincinnati, Ohio"
+25,Centene,Healthcare,"144,547",14.7%,"74,300","St. Louis, Missouri"
+26,Verizon Communications,Telecommunications,"136,835",2.4%,"117,100","New York City, New York"
+27,Walgreens Boots Alliance,Pharmaceutical industry,"132,703",10.7%,"262,500","Deerfield, Illinois"
+28,Fannie Mae,Financials,"121,596",19.7%,"8,000","Washington, D.C."
+29,Comcast,Telecommunications,"121,427",4.3%,"186,000","Philadelphia, Pennsylvania"
+30,AT&T,Conglomerate and Telecomunications,"120,741",28.5%,"160,700","Dallas, Texas"
+31,Meta Platforms,Technology,"116,609",1.1%,"86,482","Menlo Park, California"
+32,Bank of America,Financials,"115,053",22.6%,"216,823","Charlotte, North Carolina"
+33,Target Corporation,Retail,"109,120",2.9%,"440,000","Minneapolis, Minnesota"
+34,Dell Technologies,Technology,"102,301",4.4%,"133,000","Round Rock, Texas"
+35,Archer Daniels Midland,Food industry,"101,556",19.1%,"41,181","Chicago, Illinois"
+36,Citigroup,Financials,"101,078",26.6%,"238,104","New York City, New York"
+37,United Parcel Service,Transportation,"100,338",3.1%,"404,700","Atlanta, Georgia"
+38,Pfizer,Pharmaceutical industry,"100,330",23.4%,"83,000","New York City, New York"
+39,Lowe's,Retail,"97,059",0.8%,"244,500","Mooresville, North Carolina"
+40,Johnson & Johnson,Pharmaceutical industry,"94,943",1.2%,"152,700","New Brunswick, New Jersey"
+41,FedEx,Transportation,"93,512",11.4%,"518,249","Memphis, Tennessee"
+42,Humana,Health Insurance,"92,870",11.8%,"67,100","Louisville, Kentucky"
+43,Energy Transfer Partners,Petroleum industry,"89,876",33.3%,"12,565","Dallas, Texas"
+44,State Farm,Financials,"89,328",8.6%,"60,519","Bloomington, Illinois"
+45,Freddie Mac,Financials,"86,717",31.6%,"7,819","McLean, Virginia"
+46,PepsiCo,Beverage,"86,859",8.7%,"315,000","Purchase, New York"
+47,Wells Fargo,Financials,"82,859",0.5%,"238,000","San Francisco, California"
+48,The Walt Disney Company,Media,"82,722",22.7%,"195,800","Burbank, California"
+49,ConocoPhillips,Petroleum industry,"82,156",69.9%,"9,500","Houston, Texas"
+50,Tesla,Automotive and Energy,"81,462",51.4%,"127,855","Austin, Texas"
+51,Procter & Gamble,Consumer products Manufacturing,"80,187",5.3%,"106,000","Cincinnati, Ohio"
+52,United States Postal Service,Logistics,"78,620",2.0%,"576,000","Washington, D.C."
+53,Albertsons,Retail,"77,650",8.0%,"198,650","Boise, Idaho"
+54,General Electric,Conglomerate,"76,555",3.2%,"172,000","Boston, Massachusetts"
+55,MetLife,Financials,"69,898",1.7%,"45,000","New York City, New York"
+56,Goldman Sachs,Financials,"68,711",5.7%,"48,500","New York City, New York"
+57,Sysco,Food Service,"68,636",33.8%,"70,510","Houston, Texas"
+58,Bunge Limited,Food industry,"67,232",13.7%,"23,000","White Plains, New York"
+59,RTX Corporation,Conglomerate,"67,074",4.2%,"182,000","Arlington County, Virginia"
+60,Boeing,Aerospace and defense,"66,608",6.9%,"156,000","Arlington County, Virginia"
+61,StoneX Group,Financials,"66,036",55.3%,305,"New York City, New York"
+62,Lockheed Martin,Aerospace and Defense,"65,984",1.6%,"116,000","Bethesda, Maryland"
+63,Morgan Stanley,Financials,"65,936",7.9%,"82,427","New York City, New York"
+64,Intel,Technology,"63,054",20.1%,"131,900","Santa Clara, California"
+65,HP,Technology,"62,983",0.8%,"58,000","Palo Alto, California"
+66,TD Synnex,Infotech,"62,344",97.2%,"28,500","Clearwater, Florida"
+67,IBM,Technology and Cloud Computing,"60,530",16.3%,"303,100","Armonk, New York"
+68,HCA Healthcare,Healthcare,"60,233",2.5%,"250,500","Nashville, Tennessee"
+69,Prudential Financial,Financials,"60,050",15.3%,"39,583","Newark, New Jersey"
+70,Caterpillar,Machinery,"59,427",16.6%,"109,100","Deerfield, Illinois"
+71,Merck & Co.,Pharmaceutical industry,"59,283",15.8%,"68,000","Kenilworth, New Jersey"
+72,World Fuel Services,Petroleum industry and Logistics,"59,043",88.4%,"5,214","Miami, Florida"
+73,New York Life Insurance Company,Insurance,"58,445",14.2%,"15,050","New York City, New York"
+74,Enterprise Products,Petroleum industry,"58,186",42.6%,"7,300","Houston, Texas"
+75,AbbVie,Pharmaceutical industry,"58,054",3.3%,"50,000","Lake Bluff, Illinois"
+76,Plains All American Pipeline,Petroleum industry,"57,342",36.3%,"4,100","Houston, Texas"
+77,Dow Chemical Company,Chemical industry,"56,902",3.5%,"37,800","Midland, Michigan"
+78,AIG,Insurance,"56,437",8.4%,"26,200","New York City, New York"
+79,American Express,Financial,"55,625",27.3%,"77,300","New York City, New York"
+80,Publix,Retail,"54,942",13.5%,"242,000","Lakeland, Florida"
+81,Charter Communications,Telecommunications,"54,022",4.5%,"101,700","Stamford, Connecticut"
+82,Tyson Foods,Food Processing,"53,282",13.2%,"142,000","Springdale, Arkansas"
+83,John Deere,Agriculture manufacturing,"52,577",19.4%,"82,239","Moline, Illinois"
+84,Cisco,Telecom Hardware Manufacturing,"51,557",3.5%,"83,300","San Jose, California"
+85,Nationwide Mutual Insurance Company,Financial,"51,450",8.6%,"24,791","Columbus, Ohio"
+86,Allstate,Insurance,"51,412",3.4%,"54,250","Northfield Township, Cook County, Illinois"
+87,Delta Air Lines,Airline,"50,582",69.2%,"95,000","Atlanta, Georgia"
+88,Liberty Mutual,Insurance,"49,956",3.6%,"50,000","Boston, Massachusetts"
+89,TJX,Retail,"49,936",2.9%,"329,000","Framingham, Massachusetts"
+90,Progressive Corporation,Insurance,"49,611",4.0%,"55,063","Mayfield Village, Ohio"
+91,American Airlines,Airline,"48,971",63.9%,"129,700","Fort Worth, Texas"
+92,CHS,Agriculture cooperative,"47,194",24.3%,"10,014","Inver Grove Heights, Minnesota"
+93,Performance Food Group,Food Processing,"47,194",61.6%,"34,825","Richmond, Virginia"
+94,PBF Energy,Petroleum industry,"46,830",71.8%,"3,616","Parsippany–Troy Hills, New Jersey"
+95,Nike,Apparel,"46,710",4.9%,"79,100","Beaverton, Oregon"
+96,Best Buy,Retail,"46,298",10.6%,"71,100","Richfield, Minnesota"
+97,Bristol-Myers Squibb,Pharmaceutical industry,"46,159",0.5%,"34,300","New York City, New York"
+98,United Airlines,Airline,"44,955",82.5%,"92,795","Chicago, Illinois"
+99,Thermo Fisher Scientific,Laboratory instruments,"44,915",14.5%,"130,000","Waltham, Massachusetts"
+100,Qualcomm,Technology,"44,200",31.7%,"51,000","San Diego, California"
+1,Walmart,Retail,"611,289",6.7%,"2,100,000","Bentonville, Arkansas"
+2,Amazon,Retail and cloud computing,"513,983",9.4%,"1,540,000","Seattle, Washington"
+3,ExxonMobil,Petroleum industry,"413,680",44.8%,"62,000","Spring, Texas"
+4,Apple,Electronics industry,"394,328",7.8%,"164,000","Cupertino, California"
+5,UnitedHealth Group,Healthcare,"324,162",12.7%,"400,000","Minnetonka, Minnesota"
+6,CVS Health,Healthcare,"322,467",10.4%,"259,500","Woonsocket, Rhode Island"
+7,Berkshire Hathaway,Conglomerate,"302,089",9.4%,"383,000","Omaha, Nebraska"
+8,Alphabet,Technology and Cloud Computing,"282,836",9.8%,"156,000","Mountain View, California"
+9,McKesson Corporation,Health,"276,711",4.8%,"48,500","Irving, Texas"
+10,Chevron Corporation,Petroleum industry,"246,252",51.6%,"43,846","San Ramon, California"
+11,AmerisourceBergen,Pharmaceutical industry,"238,587",11.5%,"41,500","Chesterbrook, Pennsylvania"
+12,Costco,Retail,"226,954",15.8%,"304,000","Issaquah, Washington"
+13,Microsoft,Technology and Cloud Computing,"198,270",18.0%,"221,000","Redmond, Washington"
+14,Cardinal Health,Healthcare,"181,364",11.6%,"46,035","Dublin, Ohio"
+15,Cigna,Health Insurance,"180,516",3.7%,"70,231","Bloomfield, Connecticut"
+16,Marathon Petroleum,Petroleum industry,"180,012",27.6%,"17,800","Findlay, Ohio"
+17,Phillips 66,Petroleum industry,"175,702",53.0%,"13,000","Houston, Texas"
+18,Valero Energy,Petroleum industry,"171,189",58.0%,"9,743","San Antonio, Texas"
+19,Ford Motor Company,Automotive industry,"158,057",15.9%,"173,000","Dearborn, Michigan"
+20,The Home Depot,Retail,"157,403",4.1%,"471,600","Atlanta, Georgia"
+21,General Motors,Automotive industry,"156,735",23.4%,"167,000","Detroit, Michigan"
+22,Elevance Health,Healthcare,"156,595",13.0%,"102,200","Indianapolis, Indiana"
+23,JPMorgan Chase,Financial services,"154,792",21.7%,"293,723","New York City, New York"
+24,Kroger,Retail,"148,258",7.5%,"430,000","Cincinnati, Ohio"
+25,Centene,Healthcare,"144,547",14.7%,"74,300","St. Louis, Missouri"
+26,Verizon Communications,Telecommunications,"136,835",2.4%,"117,100","New York City, New York"
+27,Walgreens Boots Alliance,Pharmaceutical industry,"132,703",10.7%,"262,500","Deerfield, Illinois"
+28,Fannie Mae,Financials,"121,596",19.7%,"8,000","Washington, D.C."
+29,Comcast,Telecommunications,"121,427",4.3%,"186,000","Philadelphia, Pennsylvania"
+30,AT&T,Conglomerate and Telecomunications,"120,741",28.5%,"160,700","Dallas, Texas"
+31,Meta Platforms,Technology,"116,609",1.1%,"86,482","Menlo Park, California"
+32,Bank of America,Financials,"115,053",22.6%,"216,823","Charlotte, North Carolina"
+33,Target Corporation,Retail,"109,120",2.9%,"440,000","Minneapolis, Minnesota"
+34,Dell Technologies,Technology,"102,301",4.4%,"133,000","Round Rock, Texas"
+35,Archer Daniels Midland,Food industry,"101,556",19.1%,"41,181","Chicago, Illinois"
+36,Citigroup,Financials,"101,078",26.6%,"238,104","New York City, New York"
+37,United Parcel Service,Transportation,"100,338",3.1%,"404,700","Atlanta, Georgia"
+38,Pfizer,Pharmaceutical industry,"100,330",23.4%,"83,000","New York City, New York"
+39,Lowe's,Retail,"97,059",0.8%,"244,500","Mooresville, North Carolina"
+40,Johnson & Johnson,Pharmaceutical industry,"94,943",1.2%,"152,700","New Brunswick, New Jersey"
+41,FedEx,Transportation,"93,512",11.4%,"518,249","Memphis, Tennessee"
+42,Humana,Health Insurance,"92,870",11.8%,"67,100","Louisville, Kentucky"
+43,Energy Transfer Partners,Petroleum industry,"89,876",33.3%,"12,565","Dallas, Texas"
+44,State Farm,Financials,"89,328",8.6%,"60,519","Bloomington, Illinois"
+45,Freddie Mac,Financials,"86,717",31.6%,"7,819","McLean, Virginia"
+46,PepsiCo,Beverage,"86,859",8.7%,"315,000","Purchase, New York"
+47,Wells Fargo,Financials,"82,859",0.5%,"238,000","San Francisco, California"
+48,The Walt Disney Company,Media,"82,722",22.7%,"195,800","Burbank, California"
+49,ConocoPhillips,Petroleum industry,"82,156",69.9%,"9,500","Houston, Texas"
+50,Tesla,Automotive and Energy,"81,462",51.4%,"127,855","Austin, Texas"
+51,Procter & Gamble,Consumer products Manufacturing,"80,187",5.3%,"106,000","Cincinnati, Ohio"
+52,United States Postal Service,Logistics,"78,620",2.0%,"576,000","Washington, D.C."
+53,Albertsons,Retail,"77,650",8.0%,"198,650","Boise, Idaho"
+54,General Electric,Conglomerate,"76,555",3.2%,"172,000","Boston, Massachusetts"
+55,MetLife,Financials,"69,898",1.7%,"45,000","New York City, New York"
+56,Goldman Sachs,Financials,"68,711",5.7%,"48,500","New York City, New York"
+57,Sysco,Food Service,"68,636",33.8%,"70,510","Houston, Texas"
+58,Bunge Limited,Food industry,"67,232",13.7%,"23,000","White Plains, New York"
+59,RTX Corporation,Conglomerate,"67,074",4.2%,"182,000","Arlington County, Virginia"
+60,Boeing,Aerospace and defense,"66,608",6.9%,"156,000","Arlington County, Virginia"
+61,StoneX Group,Financials,"66,036",55.3%,305,"New York City, New York"
+62,Lockheed Martin,Aerospace and Defense,"65,984",1.6%,"116,000","Bethesda, Maryland"
+63,Morgan Stanley,Financials,"65,936",7.9%,"82,427","New York City, New York"
+64,Intel,Technology,"63,054",20.1%,"131,900","Santa Clara, California"
+65,HP,Technology,"62,983",0.8%,"58,000","Palo Alto, California"
+66,TD Synnex,Infotech,"62,344",97.2%,"28,500","Clearwater, Florida"
+67,IBM,Technology and Cloud Computing,"60,530",16.3%,"303,100","Armonk, New York"
+68,HCA Healthcare,Healthcare,"60,233",2.5%,"250,500","Nashville, Tennessee"
+69,Prudential Financial,Financials,"60,050",15.3%,"39,583","Newark, New Jersey"
+70,Caterpillar,Machinery,"59,427",16.6%,"109,100","Deerfield, Illinois"
+71,Merck & Co.,Pharmaceutical industry,"59,283",15.8%,"68,000","Kenilworth, New Jersey"
+72,World Fuel Services,Petroleum industry and Logistics,"59,043",88.4%,"5,214","Miami, Florida"
+73,New York Life Insurance Company,Insurance,"58,445",14.2%,"15,050","New York City, New York"
+74,Enterprise Products,Petroleum industry,"58,186",42.6%,"7,300","Houston, Texas"
+75,AbbVie,Pharmaceutical industry,"58,054",3.3%,"50,000","Lake Bluff, Illinois"
+76,Plains All American Pipeline,Petroleum industry,"57,342",36.3%,"4,100","Houston, Texas"
+77,Dow Chemical Company,Chemical industry,"56,902",3.5%,"37,800","Midland, Michigan"
+78,AIG,Insurance,"56,437",8.4%,"26,200","New York City, New York"
+79,American Express,Financial,"55,625",27.3%,"77,300","New York City, New York"
+80,Publix,Retail,"54,942",13.5%,"242,000","Lakeland, Florida"
+81,Charter Communications,Telecommunications,"54,022",4.5%,"101,700","Stamford, Connecticut"
+82,Tyson Foods,Food Processing,"53,282",13.2%,"142,000","Springdale, Arkansas"
+83,John Deere,Agriculture manufacturing,"52,577",19.4%,"82,239","Moline, Illinois"
+84,Cisco,Telecom Hardware Manufacturing,"51,557",3.5%,"83,300","San Jose, California"
+85,Nationwide Mutual Insurance Company,Financial,"51,450",8.6%,"24,791","Columbus, Ohio"
+86,Allstate,Insurance,"51,412",3.4%,"54,250","Northfield Township, Cook County, Illinois"
+87,Delta Air Lines,Airline,"50,582",69.2%,"95,000","Atlanta, Georgia"
+88,Liberty Mutual,Insurance,"49,956",3.6%,"50,000","Boston, Massachusetts"
+89,TJX,Retail,"49,936",2.9%,"329,000","Framingham, Massachusetts"
+90,Progressive Corporation,Insurance,"49,611",4.0%,"55,063","Mayfield Village, Ohio"
+91,American Airlines,Airline,"48,971",63.9%,"129,700","Fort Worth, Texas"
+92,CHS,Agriculture cooperative,"47,194",24.3%,"10,014","Inver Grove Heights, Minnesota"
+93,Performance Food Group,Food Processing,"47,194",61.6%,"34,825","Richmond, Virginia"
+94,PBF Energy,Petroleum industry,"46,830",71.8%,"3,616","Parsippany–Troy Hills, New Jersey"
+95,Nike,Apparel,"46,710",4.9%,"79,100","Beaverton, Oregon"
+96,Best Buy,Retail,"46,298",10.6%,"71,100","Richfield, Minnesota"
+97,Bristol-Myers Squibb,Pharmaceutical industry,"46,159",0.5%,"34,300","New York City, New York"
+98,United Airlines,Airline,"44,955",82.5%,"92,795","Chicago, Illinois"
+99,Thermo Fisher Scientific,Laboratory instruments,"44,915",14.5%,"130,000","Waltham, Massachusetts"
+100,Qualcomm,Technology,"44,200",31.7%,"51,000","San Diego, California"
+1,Walmart,Retail,"611,289",6.7%,"2,100,000","Bentonville, Arkansas"
+2,Amazon,Retail and cloud computing,"513,983",9.4%,"1,540,000","Seattle, Washington"
+3,ExxonMobil,Petroleum industry,"413,680",44.8%,"62,000","Spring, Texas"
+4,Apple,Electronics industry,"394,328",7.8%,"164,000","Cupertino, California"
+5,UnitedHealth Group,Healthcare,"324,162",12.7%,"400,000","Minnetonka, Minnesota"
+6,CVS Health,Healthcare,"322,467",10.4%,"259,500","Woonsocket, Rhode Island"
+7,Berkshire Hathaway,Conglomerate,"302,089",9.4%,"383,000","Omaha, Nebraska"
+8,Alphabet,Technology and Cloud Computing,"282,836",9.8%,"156,000","Mountain View, California"
+9,McKesson Corporation,Health,"276,711",4.8%,"48,500","Irving, Texas"
+10,Chevron Corporation,Petroleum industry,"246,252",51.6%,"43,846","San Ramon, California"
+11,AmerisourceBergen,Pharmaceutical industry,"238,587",11.5%,"41,500","Chesterbrook, Pennsylvania"
+12,Costco,Retail,"226,954",15.8%,"304,000","Issaquah, Washington"
+13,Microsoft,Technology and Cloud Computing,"198,270",18.0%,"221,000","Redmond, Washington"
+14,Cardinal Health,Healthcare,"181,364",11.6%,"46,035","Dublin, Ohio"
+15,Cigna,Health Insurance,"180,516",3.7%,"70,231","Bloomfield, Connecticut"
+16,Marathon Petroleum,Petroleum industry,"180,012",27.6%,"17,800","Findlay, Ohio"
+17,Phillips 66,Petroleum industry,"175,702",53.0%,"13,000","Houston, Texas"
+18,Valero Energy,Petroleum industry,"171,189",58.0%,"9,743","San Antonio, Texas"
+19,Ford Motor Company,Automotive industry,"158,057",15.9%,"173,000","Dearborn, Michigan"
+20,The Home Depot,Retail,"157,403",4.1%,"471,600","Atlanta, Georgia"
+21,General Motors,Automotive industry,"156,735",23.4%,"167,000","Detroit, Michigan"
+22,Elevance Health,Healthcare,"156,595",13.0%,"102,200","Indianapolis, Indiana"
+23,JPMorgan Chase,Financial services,"154,792",21.7%,"293,723","New York City, New York"
+24,Kroger,Retail,"148,258",7.5%,"430,000","Cincinnati, Ohio"
+25,Centene,Healthcare,"144,547",14.7%,"74,300","St. Louis, Missouri"
+26,Verizon Communications,Telecommunications,"136,835",2.4%,"117,100","New York City, New York"
+27,Walgreens Boots Alliance,Pharmaceutical industry,"132,703",10.7%,"262,500","Deerfield, Illinois"
+28,Fannie Mae,Financials,"121,596",19.7%,"8,000","Washington, D.C."
+29,Comcast,Telecommunications,"121,427",4.3%,"186,000","Philadelphia, Pennsylvania"
+30,AT&T,Conglomerate and Telecomunications,"120,741",28.5%,"160,700","Dallas, Texas"
+31,Meta Platforms,Technology,"116,609",1.1%,"86,482","Menlo Park, California"
+32,Bank of America,Financials,"115,053",22.6%,"216,823","Charlotte, North Carolina"
+33,Target Corporation,Retail,"109,120",2.9%,"440,000","Minneapolis, Minnesota"
+34,Dell Technologies,Technology,"102,301",4.4%,"133,000","Round Rock, Texas"
+35,Archer Daniels Midland,Food industry,"101,556",19.1%,"41,181","Chicago, Illinois"
+36,Citigroup,Financials,"101,078",26.6%,"238,104","New York City, New York"
+37,United Parcel Service,Transportation,"100,338",3.1%,"404,700","Atlanta, Georgia"
+38,Pfizer,Pharmaceutical industry,"100,330",23.4%,"83,000","New York City, New York"
+39,Lowe's,Retail,"97,059",0.8%,"244,500","Mooresville, North Carolina"
+40,Johnson & Johnson,Pharmaceutical industry,"94,943",1.2%,"152,700","New Brunswick, New Jersey"
+41,FedEx,Transportation,"93,512",11.4%,"518,249","Memphis, Tennessee"
+42,Humana,Health Insurance,"92,870",11.8%,"67,100","Louisville, Kentucky"
+43,Energy Transfer Partners,Petroleum industry,"89,876",33.3%,"12,565","Dallas, Texas"
+44,State Farm,Financials,"89,328",8.6%,"60,519","Bloomington, Illinois"
+45,Freddie Mac,Financials,"86,717",31.6%,"7,819","McLean, Virginia"
+46,PepsiCo,Beverage,"86,859",8.7%,"315,000","Purchase, New York"
+47,Wells Fargo,Financials,"82,859",0.5%,"238,000","San Francisco, California"
+48,The Walt Disney Company,Media,"82,722",22.7%,"195,800","Burbank, California"
+49,ConocoPhillips,Petroleum industry,"82,156",69.9%,"9,500","Houston, Texas"
+50,Tesla,Automotive and Energy,"81,462",51.4%,"127,855","Austin, Texas"
+51,Procter & Gamble,Consumer products Manufacturing,"80,187",5.3%,"106,000","Cincinnati, Ohio"
+52,United States Postal Service,Logistics,"78,620",2.0%,"576,000","Washington, D.C."
+53,Albertsons,Retail,"77,650",8.0%,"198,650","Boise, Idaho"
+54,General Electric,Conglomerate,"76,555",3.2%,"172,000","Boston, Massachusetts"
+55,MetLife,Financials,"69,898",1.7%,"45,000","New York City, New York"
+56,Goldman Sachs,Financials,"68,711",5.7%,"48,500","New York City, New York"
+57,Sysco,Food Service,"68,636",33.8%,"70,510","Houston, Texas"
+58,Bunge Limited,Food industry,"67,232",13.7%,"23,000","White Plains, New York"
+59,RTX Corporation,Conglomerate,"67,074",4.2%,"182,000","Arlington County, Virginia"
+60,Boeing,Aerospace and defense,"66,608",6.9%,"156,000","Arlington County, Virginia"
+61,StoneX Group,Financials,"66,036",55.3%,305,"New York City, New York"
+62,Lockheed Martin,Aerospace and Defense,"65,984",1.6%,"116,000","Bethesda, Maryland"
+63,Morgan Stanley,Financials,"65,936",7.9%,"82,427","New York City, New York"
+64,Intel,Technology,"63,054",20.1%,"131,900","Santa Clara, California"
+65,HP,Technology,"62,983",0.8%,"58,000","Palo Alto, California"
+66,TD Synnex,Infotech,"62,344",97.2%,"28,500","Clearwater, Florida"
+67,IBM,Technology and Cloud Computing,"60,530",16.3%,"303,100","Armonk, New York"
+68,HCA Healthcare,Healthcare,"60,233",2.5%,"250,500","Nashville, Tennessee"
+69,Prudential Financial,Financials,"60,050",15.3%,"39,583","Newark, New Jersey"
+70,Caterpillar,Machinery,"59,427",16.6%,"109,100","Deerfield, Illinois"
+71,Merck & Co.,Pharmaceutical industry,"59,283",15.8%,"68,000","Kenilworth, New Jersey"
+72,World Fuel Services,Petroleum industry and Logistics,"59,043",88.4%,"5,214","Miami, Florida"
+73,New York Life Insurance Company,Insurance,"58,445",14.2%,"15,050","New York City, New York"
+74,Enterprise Products,Petroleum industry,"58,186",42.6%,"7,300","Houston, Texas"
+75,AbbVie,Pharmaceutical industry,"58,054",3.3%,"50,000","Lake Bluff, Illinois"
+76,Plains All American Pipeline,Petroleum industry,"57,342",36.3%,"4,100","Houston, Texas"
+77,Dow Chemical Company,Chemical industry,"56,902",3.5%,"37,800","Midland, Michigan"
+78,AIG,Insurance,"56,437",8.4%,"26,200","New York City, New York"
+79,American Express,Financial,"55,625",27.3%,"77,300","New York City, New York"
+80,Publix,Retail,"54,942",13.5%,"242,000","Lakeland, Florida"
+81,Charter Communications,Telecommunications,"54,022",4.5%,"101,700","Stamford, Connecticut"
+82,Tyson Foods,Food Processing,"53,282",13.2%,"142,000","Springdale, Arkansas"
+83,John Deere,Agriculture manufacturing,"52,577",19.4%,"82,239","Moline, Illinois"
+84,Cisco,Telecom Hardware Manufacturing,"51,557",3.5%,"83,300","San Jose, California"
+85,Nationwide Mutual Insurance Company,Financial,"51,450",8.6%,"24,791","Columbus, Ohio"
+86,Allstate,Insurance,"51,412",3.4%,"54,250","Northfield Township, Cook County, Illinois"
+87,Delta Air Lines,Airline,"50,582",69.2%,"95,000","Atlanta, Georgia"
+88,Liberty Mutual,Insurance,"49,956",3.6%,"50,000","Boston, Massachusetts"
+89,TJX,Retail,"49,936",2.9%,"329,000","Framingham, Massachusetts"
+90,Progressive Corporation,Insurance,"49,611",4.0%,"55,063","Mayfield Village, Ohio"
+91,American Airlines,Airline,"48,971",63.9%,"129,700","Fort Worth, Texas"
+92,CHS,Agriculture cooperative,"47,194",24.3%,"10,014","Inver Grove Heights, Minnesota"
+93,Performance Food Group,Food Processing,"47,194",61.6%,"34,825","Richmond, Virginia"
+94,PBF Energy,Petroleum industry,"46,830",71.8%,"3,616","Parsippany–Troy Hills, New Jersey"
+95,Nike,Apparel,"46,710",4.9%,"79,100","Beaverton, Oregon"
+96,Best Buy,Retail,"46,298",10.6%,"71,100","Richfield, Minnesota"
+97,Bristol-Myers Squibb,Pharmaceutical industry,"46,159",0.5%,"34,300","New York City, New York"
+98,United Airlines,Airline,"44,955",82.5%,"92,795","Chicago, Illinois"
+99,Thermo Fisher Scientific,Laboratory instruments,"44,915",14.5%,"130,000","Waltham, Massachusetts"
+100,Qualcomm,Technology,"44,200",31.7%,"51,000","San Diego, California"
+<built-in method strip of str object at 0x00000230855C88B0>,<built-in method strip of str object at 0x00000230855CB130>,<built-in method strip of str object at 0x00000230855CACF0>,<built-in method strip of str object at 0x00000230855CA3F0>,<built-in method strip of str object at 0x00000230855CBE70>,<built-in method strip of str object at 0x00000230855CA6B0>,<built-in method strip of str object at 0x00000230855F3FA0>
+<built-in method strip of str object at 0x0000023082D1D0B0>,<built-in method strip of str object at 0x00000230855A1B70>,<built-in method strip of str object at 0x00000230855F3A50>,<built-in method strip of str object at 0x00000230855CB670>,<built-in method strip of str object at 0x00000230855CB930>,<built-in method strip of str object at 0x00000230855CA970>,<built-in method strip of str object at 0x00000230855F2970>
+<built-in method strip of str object at 0x00000230855A2130>,<built-in method strip of str object at 0x00000230855DCBF0>,<built-in method strip of str object at 0x00000230855F2E70>,<built-in method strip of str object at 0x00000230855DDC70>,<built-in method strip of str object at 0x00000230855DC0B0>,<built-in method strip of str object at 0x00000230855DDCF0>,<built-in method strip of str object at 0x00000230855DC870>
+<built-in method strip of str object at 0x00000230855E5C70>,<built-in method strip of str object at 0x00000230855E4EF0>,<built-in method strip of str object at 0x00000230855F3EB0>,<built-in method strip of str object at 0x00000230855E5DF0>,<built-in method strip of str object at 0x00000230855E45B0>,<built-in method strip of str object at 0x00000230855CA070>,<built-in method strip of str object at 0x00000230855F30A0>
+<built-in method strip of str object at 0x00000230855E7B30>,<built-in method strip of str object at 0x00000230855F3B40>,<built-in method strip of str object at 0x00000230855E6FF0>,<built-in method strip of str object at 0x00000230855CB270>,<built-in method strip of str object at 0x00000230855C9DB0>,<built-in method strip of str object at 0x00000230855CB5B0>,<built-in method strip of str object at 0x00000230855F3320>
+<built-in method strip of str object at 0x00000230855E4870>,<built-in method strip of str object at 0x00000230855CB8F0>,<built-in method strip of str object at 0x00000230855CAF30>,<built-in method strip of str object at 0x00000230855C91F0>,<built-in method strip of str object at 0x00000230855C9AB0>,<built-in method strip of str object at 0x00000230855CB430>,<built-in method strip of str object at 0x00000230855F2420>
+<built-in method strip of str object at 0x00000230855C9C30>,<built-in method strip of str object at 0x00000230855F35A0>,<built-in method strip of str object at 0x00000230855CA8F0>,<built-in method strip of str object at 0x00000230855CBBF0>,<built-in method strip of str object at 0x00000230855CAB30>,<built-in method strip of str object at 0x00000230855C98F0>,<built-in method strip of str object at 0x00000230855F33C0>
+<built-in method strip of str object at 0x00000230855C86B0>,<built-in method strip of str object at 0x00000230855CB2B0>,<built-in method strip of str object at 0x00000230855FC3F0>,<built-in method strip of str object at 0x00000230855C96F0>,<built-in method strip of str object at 0x00000230855C8170>,<built-in method strip of str object at 0x00000230855C9470>,<built-in method strip of str object at 0x00000230855FCB20>
+<built-in method strip of str object at 0x00000230855CB3F0>,<built-in method strip of str object at 0x00000230855FCC10>,<built-in method strip of str object at 0x00000230855CAA30>,<built-in method strip of str object at 0x00000230855C9070>,<built-in method strip of str object at 0x00000230855CA8B0>,<built-in method strip of str object at 0x00000230855DDE30>,<built-in method strip of str object at 0x00000230855DE9F0>
+<built-in method strip of str object at 0x00000230855CA0F0>,<built-in method strip of str object at 0x00000230855FCEE0>,<built-in method strip of str object at 0x00000230855FCFD0>,<built-in method strip of str object at 0x00000230855CBEB0>,<built-in method strip of str object at 0x00000230855C8B30>,<built-in method strip of str object at 0x00000230855DC3F0>,<built-in method strip of str object at 0x00000230855FD1B0>
+<built-in method strip of str object at 0x00000230855CB230>,<built-in method strip of str object at 0x00000230855FD2A0>,<built-in method strip of str object at 0x00000230855FD660>,<built-in method strip of str object at 0x00000230855DC4F0>,<built-in method strip of str object at 0x00000230855DF430>,<built-in method strip of str object at 0x00000230855DD1F0>,<built-in method strip of str object at 0x00000230855FD480>
+<built-in method strip of str object at 0x00000230855DD5B0>,<built-in method strip of str object at 0x00000230855DDDB0>,<built-in method strip of str object at 0x00000230855DC730>,<built-in method strip of str object at 0x00000230855DF2F0>,<built-in method strip of str object at 0x00000230855DCA70>,<built-in method strip of str object at 0x00000230855DC8F0>,<built-in method strip of str object at 0x00000230855FC3A0>
+<built-in method strip of str object at 0x00000230855DCB70>,<built-in method strip of str object at 0x00000230855DD0B0>,<built-in method strip of str object at 0x00000230855FD890>,<built-in method strip of str object at 0x00000230855DCC70>,<built-in method strip of str object at 0x00000230855DE6B0>,<built-in method strip of str object at 0x00000230855DDEB0>,<built-in method strip of str object at 0x00000230855FDB10>
+<built-in method strip of str object at 0x00000230855DCF30>,<built-in method strip of str object at 0x00000230855FDC00>,<built-in method strip of str object at 0x00000230855DF970>,<built-in method strip of str object at 0x00000230855DCDB0>,<built-in method strip of str object at 0x00000230855DD4B0>,<built-in method strip of str object at 0x00000230855DC2B0>,<built-in method strip of str object at 0x00000230855DD470>
+<built-in method strip of str object at 0x00000230855DC270>,<built-in method strip of str object at 0x00000230855DD870>,<built-in method strip of str object at 0x00000230855FDED0>,<built-in method strip of str object at 0x00000230855DE470>,<built-in method strip of str object at 0x00000230855DF6B0>,<built-in method strip of str object at 0x00000230855E93B0>,<built-in method strip of str object at 0x00000230855FE100>
+<built-in method strip of str object at 0x00000230855DC330>,<built-in method strip of str object at 0x00000230855FE1F0>,<built-in method strip of str object at 0x00000230855FE2E0>,<built-in method strip of str object at 0x00000230855EA030>,<built-in method strip of str object at 0x00000230855EB370>,<built-in method strip of str object at 0x00000230855EBAF0>,<built-in method strip of str object at 0x00000230855E8A30>
+<built-in method strip of str object at 0x00000230855E9070>,<built-in method strip of str object at 0x00000230855EB2B0>,<built-in method strip of str object at 0x00000230855FE510>,<built-in method strip of str object at 0x00000230855E8470>,<built-in method strip of str object at 0x00000230855E9BB0>,<built-in method strip of str object at 0x00000230855E9D30>,<built-in method strip of str object at 0x00000230855E8070>
+<built-in method strip of str object at 0x00000230855EA7B0>,<built-in method strip of str object at 0x00000230855E80F0>,<built-in method strip of str object at 0x00000230855FE7E0>,<built-in method strip of str object at 0x00000230855EB2F0>,<built-in method strip of str object at 0x00000230855E9230>,<built-in method strip of str object at 0x00000230855E9E30>,<built-in method strip of str object at 0x00000230855FEA10>
+<built-in method strip of str object at 0x00000230855EB930>,<built-in method strip of str object at 0x00000230855FEB00>,<built-in method strip of str object at 0x00000230855FEBF0>,<built-in method strip of str object at 0x00000230855E8EB0>,<built-in method strip of str object at 0x00000230855EA430>,<built-in method strip of str object at 0x00000230855E82F0>,<built-in method strip of str object at 0x00000230855FED30>
+<built-in method strip of str object at 0x00000230855EBE30>,<built-in method strip of str object at 0x00000230855EB5F0>,<built-in method strip of str object at 0x00000230855EB1B0>,<built-in method strip of str object at 0x00000230855E89F0>,<built-in method strip of str object at 0x00000230855EAB70>,<built-in method strip of str object at 0x00000230855EBAB0>,<built-in method strip of str object at 0x00000230855FD980>
+<built-in method strip of str object at 0x00000230855EAC30>,<built-in method strip of str object at 0x00000230855E99F0>,<built-in method strip of str object at 0x00000230855FF0F0>,<built-in method strip of str object at 0x00000230855E8330>,<built-in method strip of str object at 0x00000230855E80B0>,<built-in method strip of str object at 0x00000230855EA1B0>,<built-in method strip of str object at 0x00000230855FF370>
+<built-in method strip of str object at 0x00000230855EADB0>,<built-in method strip of str object at 0x00000230855FF460>,<built-in method strip of str object at 0x00000230855EAAB0>,<built-in method strip of str object at 0x00000230855E9570>,<built-in method strip of str object at 0x00000230855E9330>,<built-in method strip of str object at 0x00000230855E9170>,<built-in method strip of str object at 0x00000230855FF640>
+<built-in method strip of str object at 0x00000230855EBA70>,<built-in method strip of str object at 0x00000230855E8930>,<built-in method strip of str object at 0x00000230855FF780>,<built-in method strip of str object at 0x00000230855EA630>,<built-in method strip of str object at 0x00000230855EBDB0>,<built-in method strip of str object at 0x00000230855EBC70>,<built-in method strip of str object at 0x00000230855FF960>
+<built-in method strip of str object at 0x00000230855EA330>,<built-in method strip of str object at 0x00000230855E9CF0>,<built-in method strip of str object at 0x00000230855E86F0>,<built-in method strip of str object at 0x00000230855E9DB0>,<built-in method strip of str object at 0x00000230855EBA30>,<built-in method strip of str object at 0x00000230855E9670>,<built-in method strip of str object at 0x00000230855FE6A0>
+<built-in method strip of str object at 0x00000230855EB030>,<built-in method strip of str object at 0x00000230855EA070>,<built-in method strip of str object at 0x00000230855EB9F0>,<built-in method strip of str object at 0x00000230855EB570>,<built-in method strip of str object at 0x00000230855EBB70>,<built-in method strip of str object at 0x00000230855E9B70>,<built-in method strip of str object at 0x00000230855FF5A0>
+<built-in method strip of str object at 0x00000230855EB870>,<built-in method strip of str object at 0x00000230855FEF10>,<built-in method strip of str object at 0x00000230855FF8C0>,<built-in method strip of str object at 0x00000230855EBCF0>,<built-in method strip of str object at 0x00000230855E9EF0>,<built-in method strip of str object at 0x00000230855EBFB0>,<built-in method strip of str object at 0x00000230855FFC30>
+<built-in method strip of str object at 0x00000230855EA5B0>,<built-in method strip of str object at 0x00000230855FFBE0>,<built-in method strip of str object at 0x00000230855FFB90>,<built-in method strip of str object at 0x00000230855E8830>,<built-in method strip of str object at 0x00000230855EBD70>,<built-in method strip of str object at 0x00000230855EA970>,<built-in method strip of str object at 0x00000230855FEFB0>
+<built-in method strip of str object at 0x00000230855EAEB0>,<built-in method strip of str object at 0x00000230855EB530>,<built-in method strip of str object at 0x00000230855EB4B0>,<built-in method strip of str object at 0x00000230855EABF0>,<built-in method strip of str object at 0x00000230855EA9F0>,<built-in method strip of str object at 0x00000230855E9B30>,<built-in method strip of str object at 0x00000230855CC080>
+<built-in method strip of str object at 0x00000230855EB070>,<built-in method strip of str object at 0x00000230855EAEF0>,<built-in method strip of str object at 0x00000230855CC9E0>,<built-in method strip of str object at 0x00000230855E9970>,<built-in method strip of str object at 0x00000230855EAF30>,<built-in method strip of str object at 0x00000230855EB6B0>,<built-in method strip of str object at 0x00000230855CCC60>
+<built-in method strip of str object at 0x00000230855E8430>,<built-in method strip of str object at 0x00000230855E8DB0>,<built-in method strip of str object at 0x0000023085581050>,<built-in method strip of str object at 0x00000230855E9770>,<built-in method strip of str object at 0x00000230855E9BF0>,<built-in method strip of str object at 0x00000230855E8130>,<built-in method strip of str object at 0x00000230855E9030>
+<built-in method strip of str object at 0x00000230855EB330>,<built-in method strip of str object at 0x00000230855E8AF0>,<built-in method strip of str object at 0x00000230855E86B0>,<built-in method strip of str object at 0x00000230855EBF30>,<built-in method strip of str object at 0x00000230855E8A70>,<built-in method strip of str object at 0x00000230855E85B0>,<built-in method strip of str object at 0x00000230855CC0D0>
+<built-in method strip of str object at 0x00000230855EB8B0>,<built-in method strip of str object at 0x00000230855CD2F0>,<built-in method strip of str object at 0x00000230855EA1F0>,<built-in method strip of str object at 0x00000230855EB5B0>,<built-in method strip of str object at 0x00000230855E9C70>,<built-in method strip of str object at 0x00000230855EA570>,<built-in method strip of str object at 0x00000230855CD4D0>
+<built-in method strip of str object at 0x00000230855E84F0>,<built-in method strip of str object at 0x00000230855CD5C0>,<built-in method strip of str object at 0x00000230855EB230>,<built-in method strip of str object at 0x00000230855EBE70>,<built-in method strip of str object at 0x00000230855EA5F0>,<built-in method strip of str object at 0x00000230855EA4B0>,<built-in method strip of str object at 0x00000230855CD7A0>
+<built-in method strip of str object at 0x00000230855E9AB0>,<built-in method strip of str object at 0x00000230855CD890>,<built-in method strip of str object at 0x00000230855EA870>,<built-in method strip of str object at 0x00000230855E8FF0>,<built-in method strip of str object at 0x00000230855F4FF0>,<built-in method strip of str object at 0x00000230855F4FB0>,<built-in method strip of str object at 0x00000230855CDAC0>
+<built-in method strip of str object at 0x00000230855E8270>,<built-in method strip of str object at 0x00000230855CDBB0>,<built-in method strip of str object at 0x00000230855F4EB0>,<built-in method strip of str object at 0x00000230855F4070>,<built-in method strip of str object at 0x00000230855F66B0>,<built-in method strip of str object at 0x00000230855F4F30>,<built-in method strip of str object at 0x00000230855CDDE0>
+<built-in method strip of str object at 0x00000230855F4670>,<built-in method strip of str object at 0x00000230855F4B30>,<built-in method strip of str object at 0x00000230855F67F0>,<built-in method strip of str object at 0x00000230855F49B0>,<built-in method strip of str object at 0x00000230855F52F0>,<built-in method strip of str object at 0x00000230855F5FB0>,<built-in method strip of str object at 0x00000230855CD700>
+<built-in method strip of str object at 0x00000230855F53B0>,<built-in method strip of str object at 0x00000230855CE1A0>,<built-in method strip of str object at 0x00000230855F4BB0>,<built-in method strip of str object at 0x00000230855F6A70>,<built-in method strip of str object at 0x00000230855F4930>,<built-in method strip of str object at 0x00000230855F4C70>,<built-in method strip of str object at 0x00000230855CE420>
+<built-in method strip of str object at 0x00000230855F6070>,<built-in method strip of str object at 0x00000230855F59F0>,<built-in method strip of str object at 0x00000230855CE560>,<built-in method strip of str object at 0x00000230855F65B0>,<built-in method strip of str object at 0x00000230855F5230>,<built-in method strip of str object at 0x00000230855F53F0>,<built-in method strip of str object at 0x00000230855CE6F0>
+<built-in method strip of str object at 0x00000230855F6570>,<built-in method strip of str object at 0x00000230855F6BB0>,<built-in method strip of str object at 0x00000230855F4B70>,<built-in method strip of str object at 0x00000230855F6BF0>,<built-in method strip of str object at 0x00000230855F64F0>,<built-in method strip of str object at 0x00000230855F5470>,<built-in method strip of str object at 0x00000230855CD750>
+<built-in method strip of str object at 0x00000230855F5AB0>,<built-in method strip of str object at 0x00000230855CEAB0>,<built-in method strip of str object at 0x00000230855CEBA0>,<built-in method strip of str object at 0x00000230855F6D30>,<built-in method strip of str object at 0x00000230855F6E70>,<built-in method strip of str object at 0x00000230855F54F0>,<built-in method strip of str object at 0x00000230855CED80>
+<built-in method strip of str object at 0x00000230855F5330>,<built-in method strip of str object at 0x00000230855F4D70>,<built-in method strip of str object at 0x00000230855F63B0>,<built-in method strip of str object at 0x00000230855F40B0>,<built-in method strip of str object at 0x00000230855F46F0>,<built-in method strip of str object at 0x00000230855F69B0>,<built-in method strip of str object at 0x00000230855CE060>
+<built-in method strip of str object at 0x00000230855F5DB0>,<built-in method strip of str object at 0x00000230855F62F0>,<built-in method strip of str object at 0x00000230855CF0F0>,<built-in method strip of str object at 0x00000230855F7130>,<built-in method strip of str object at 0x00000230855F4630>,<built-in method strip of str object at 0x00000230855F51F0>,<built-in method strip of str object at 0x00000230855CF370>
+<built-in method strip of str object at 0x00000230855F52B0>,<built-in method strip of str object at 0x00000230855CF460>,<built-in method strip of str object at 0x00000230855CF550>,<built-in method strip of str object at 0x00000230855F4DF0>,<built-in method strip of str object at 0x00000230855F5830>,<built-in method strip of str object at 0x00000230855F58B0>,<built-in method strip of str object at 0x00000230855F5030>
+<built-in method strip of str object at 0x00000230855F49F0>,<built-in method strip of str object at 0x00000230855F7230>,<built-in method strip of str object at 0x00000230855F5EF0>,<built-in method strip of str object at 0x00000230855F7270>,<built-in method strip of str object at 0x00000230855F57F0>,<built-in method strip of str object at 0x00000230855F69F0>,<built-in method strip of str object at 0x00000230855CE6A0>
+<built-in method strip of str object at 0x00000230855F61F0>,<built-in method strip of str object at 0x00000230855F73B0>,<built-in method strip of str object at 0x00000230855F74F0>,<built-in method strip of str object at 0x00000230855F5F70>,<built-in method strip of str object at 0x00000230855F5270>,<built-in method strip of str object at 0x00000230855F6970>,<built-in method strip of str object at 0x00000230855CE380>
+<built-in method strip of str object at 0x00000230855F47F0>,<built-in method strip of str object at 0x00000230855F4F70>,<built-in method strip of str object at 0x00000230855F7630>,<built-in method strip of str object at 0x00000230855F6DF0>,<built-in method strip of str object at 0x00000230855F5A30>,<built-in method strip of str object at 0x00000230855F42F0>,<built-in method strip of str object at 0x00000230855CECE0>
+<built-in method strip of str object at 0x00000230855F5530>,<built-in method strip of str object at 0x00000230855F70B0>,<built-in method strip of str object at 0x00000230855F77B0>,<built-in method strip of str object at 0x00000230855F7670>,<built-in method strip of str object at 0x00000230855F4130>,<built-in method strip of str object at 0x00000230855F5CF0>,<built-in method strip of str object at 0x00000230855CF280>
+<built-in method strip of str object at 0x00000230855F5B30>,<built-in method strip of str object at 0x00000230855CFB90>,<built-in method strip of str object at 0x00000230855F5C70>,<built-in method strip of str object at 0x00000230855F7930>,<built-in method strip of str object at 0x00000230855F77F0>,<built-in method strip of str object at 0x00000230855F50F0>,<built-in method strip of str object at 0x00000230855CFBE0>
+<built-in method strip of str object at 0x00000230855F4AB0>,<built-in method strip of str object at 0x00000230855F6CF0>,<built-in method strip of str object at 0x00000230855CDA70>,<built-in method strip of str object at 0x00000230855F5A70>,<built-in method strip of str object at 0x00000230855F48B0>,<built-in method strip of str object at 0x00000230855F66F0>,<built-in method strip of str object at 0x00000230855F7070>
+<built-in method strip of str object at 0x00000230855F46B0>,<built-in method strip of str object at 0x00000230855F7AB0>,<built-in method strip of str object at 0x0000023085600800>,<built-in method strip of str object at 0x00000230855F7C30>,<built-in method strip of str object at 0x00000230855F73F0>,<built-in method strip of str object at 0x00000230855F6B30>,<built-in method strip of str object at 0x00000230855F7AF0>
+<built-in method strip of str object at 0x00000230855F40F0>,<built-in method strip of str object at 0x0000023085600BC0>,<built-in method strip of str object at 0x00000230855811D0>,<built-in method strip of str object at 0x00000230855F5E70>,<built-in method strip of str object at 0x00000230855F7D70>,<built-in method strip of str object at 0x00000230855F44F0>,<built-in method strip of str object at 0x0000023085600DF0>
+<built-in method strip of str object at 0x00000230855F47B0>,<built-in method strip of str object at 0x0000023085600EE0>,<built-in method strip of str object at 0x00000230855F5130>,<built-in method strip of str object at 0x00000230855F6370>,<built-in method strip of str object at 0x00000230855F42B0>,<built-in method strip of str object at 0x00000230855F7EF0>,<built-in method strip of str object at 0x00000230856010C0>
+<built-in method strip of str object at 0x00000230855F70F0>,<built-in method strip of str object at 0x00000230855F6E30>,<built-in method strip of str object at 0x00000230855F6C30>,<built-in method strip of str object at 0x00000230855F4030>,<built-in method strip of str object at 0x00000230855F5B70>,<built-in method strip of str object at 0x00000230855F4C30>,<built-in method strip of str object at 0x00000230855F4BF0>
+<built-in method strip of str object at 0x00000230855F7430>,<built-in method strip of str object at 0x0000023085601430>,<built-in method strip of str object at 0x00000230855F6CB0>,<built-in method strip of str object at 0x00000230855F45F0>,<built-in method strip of str object at 0x00000230855F6D70>,<built-in method strip of str object at 0x00000230855F6730>,<built-in method strip of str object at 0x0000023085601700>
+<built-in method strip of str object at 0x00000230855F5DF0>,<built-in method strip of str object at 0x00000230855F6430>,<built-in method strip of str object at 0x00000230855F4730>,<built-in method strip of str object at 0x00000230855F7BF0>,<built-in method strip of str object at 0x00000230855F5C30>,<built-in method strip of str object at 0x00000230855F4CF0>,<built-in method strip of str object at 0x00000230856016B0>
+<built-in method strip of str object at 0x00000230855F43B0>,<built-in method strip of str object at 0x00000230855F4970>,<built-in method strip of str object at 0x00000230855F59B0>,<built-in method strip of str object at 0x00000230855F7370>,<built-in method strip of str object at 0x00000230855F4370>,<built-in method strip of str object at 0x00000230855F78F0>,<built-in method strip of str object at 0x0000023085600300>
+<built-in method strip of str object at 0x00000230855F74B0>,<built-in method strip of str object at 0x00000230855F55B0>,<built-in method strip of str object at 0x00000230855F5CB0>,<built-in method strip of str object at 0x00000230855F71F0>,<built-in method strip of str object at 0x00000230855F71B0>,<built-in method strip of str object at 0x00000230855F7DF0>,<built-in method strip of str object at 0x00000230855F6FF0>
+<built-in method strip of str object at 0x00000230855F4CB0>,<built-in method strip of str object at 0x00000230855F7970>,<built-in method strip of str object at 0x00000230855F4E30>,<built-in method strip of str object at 0x00000230855F6670>,<built-in method strip of str object at 0x00000230855F4870>,<built-in method strip of str object at 0x00000230855F41F0>,<built-in method strip of str object at 0x0000023085600350>
+<built-in method strip of str object at 0x00000230855F6770>,<built-in method strip of str object at 0x00000230856022E0>,<built-in method strip of str object at 0x00000230855F7170>,<built-in method strip of str object at 0x00000230855F6230>,<built-in method strip of str object at 0x00000230855F6FB0>,<built-in method strip of str object at 0x00000230855F4570>,<built-in method strip of str object at 0x00000230856024C0>
+<built-in method strip of str object at 0x00000230855F6270>,<built-in method strip of str object at 0x00000230855F4D30>,<built-in method strip of str object at 0x0000023085602600>,<built-in method strip of str object at 0x00000230855F5870>,<built-in method strip of str object at 0x00000230855F7EB0>,<built-in method strip of str object at 0x00000230855F4EF0>,<built-in method strip of str object at 0x0000023085602790>
+<built-in method strip of str object at 0x00000230855F75B0>,<built-in method strip of str object at 0x00000230855F5FF0>,<built-in method strip of str object at 0x00000230855F57B0>,<built-in method strip of str object at 0x00000230855F50B0>,<built-in method strip of str object at 0x00000230855F44B0>,<built-in method strip of str object at 0x00000230855F7DB0>,<built-in method strip of str object at 0x00000230856000D0>
+<built-in method strip of str object at 0x00000230855F4530>,<built-in method strip of str object at 0x0000023085602B50>,<built-in method strip of str object at 0x0000023085602C40>,<built-in method strip of str object at 0x00000230855F58F0>,<built-in method strip of str object at 0x00000230855F65F0>,<built-in method strip of str object at 0x00000230855F72B0>,<built-in method strip of str object at 0x0000023085602E20>
+<built-in method strip of str object at 0x00000230855F63F0>,<built-in method strip of str object at 0x00000230855F5BB0>,<built-in method strip of str object at 0x00000230855F68B0>,<built-in method strip of str object at 0x00000230855F5670>,<built-in method strip of str object at 0x00000230855F4830>,<built-in method strip of str object at 0x00000230855F51B0>,<built-in method strip of str object at 0x0000023085600120>
+<built-in method strip of str object at 0x00000230855F5170>,<built-in method strip of str object at 0x00000230855F6130>,<built-in method strip of str object at 0x00000230855F6170>,<built-in method strip of str object at 0x00000230855F5070>,<built-in method strip of str object at 0x00000230855F45B0>,<built-in method strip of str object at 0x00000230855F7B30>,<built-in method strip of str object at 0x0000023085601B60>
+<built-in method strip of str object at 0x00000230855F4230>,<built-in method strip of str object at 0x00000230855F7830>,<built-in method strip of str object at 0x00000230855F6470>,<built-in method strip of str object at 0x00000230855F4DB0>,<built-in method strip of str object at 0x00000230855F7BB0>,<built-in method strip of str object at 0x00000230855F7A30>,<built-in method strip of str object at 0x00000230856029C0>
+<built-in method strip of str object at 0x00000230855F6630>,<built-in method strip of str object at 0x00000230855F7530>,<built-in method strip of str object at 0x00000230855F6930>,<built-in method strip of str object at 0x00000230855F61B0>,<built-in method strip of str object at 0x00000230855F6830>,<built-in method strip of str object at 0x00000230855F5730>,<built-in method strip of str object at 0x0000023085600170>
+<built-in method strip of str object at 0x00000230855F6B70>,<built-in method strip of str object at 0x00000230855F7730>,<built-in method strip of str object at 0x0000023085603AA0>,<built-in method strip of str object at 0x00000230855F6330>,<built-in method strip of str object at 0x00000230855F6EF0>,<built-in method strip of str object at 0x00000230855F64B0>,<built-in method strip of str object at 0x0000023085603C80>
+<built-in method strip of str object at 0x00000230855F5970>,<built-in method strip of str object at 0x00000230855F6EB0>,<built-in method strip of str object at 0x00000230855F6A30>,<built-in method strip of str object at 0x00000230855F60F0>,<built-in method strip of str object at 0x00000230855F4470>,<built-in method strip of str object at 0x00000230855F5770>,<built-in method strip of str object at 0x0000023085601C00>
+<built-in method strip of str object at 0x00000230855F7570>,<built-in method strip of str object at 0x0000023085600490>,<built-in method strip of str object at 0x00000230855F5EB0>,<built-in method strip of str object at 0x00000230855F5D70>,<built-in method strip of str object at 0x00000230855F5430>,<built-in method strip of str object at 0x00000230855F7D30>,<built-in method strip of str object at 0x0000023085600260>
+<built-in method strip of str object at 0x00000230855F6F30>,<built-in method strip of str object at 0x00000230855F79B0>,<built-in method strip of str object at 0x00000230855F48F0>,<built-in method strip of str object at 0x00000230855F7770>,<built-in method strip of str object at 0x00000230855F78B0>,<built-in method strip of str object at 0x00000230855F6AB0>,<built-in method strip of str object at 0x0000023085603F00>
+<built-in method strip of str object at 0x00000230855F7F30>,<built-in method strip of str object at 0x00000230855F7470>,<built-in method strip of str object at 0x0000023085601C50>,<built-in method strip of str object at 0x00000230855F67B0>,<built-in method strip of str object at 0x00000230855F4E70>,<built-in method strip of str object at 0x00000230855F7870>,<built-in method strip of str object at 0x0000023085601390>
+<built-in method strip of str object at 0x00000230855F55F0>,<built-in method strip of str object at 0x00000230856088A0>,<built-in method strip of str object at 0x00000230855821F0>,<built-in method strip of str object at 0x00000230855F41B0>,<built-in method strip of str object at 0x00000230855F76F0>,<built-in method strip of str object at 0x00000230855F5930>,<built-in method strip of str object at 0x00000230855F5370>
+<built-in method strip of str object at 0x00000230855F62B0>,<built-in method strip of str object at 0x0000023085580FF0>,<built-in method strip of str object at 0x00000230855F7FB0>,<built-in method strip of str object at 0x00000230855F72F0>,<built-in method strip of str object at 0x00000230855F5F30>,<built-in method strip of str object at 0x00000230855F5D30>,<built-in method strip of str object at 0x0000023085608670>
+<built-in method strip of str object at 0x00000230855F5630>,<built-in method strip of str object at 0x0000023085608F30>,<built-in method strip of str object at 0x0000023085609020>,<built-in method strip of str object at 0x00000230855F4770>,<built-in method strip of str object at 0x00000230855F7030>,<built-in method strip of str object at 0x00000230855F7C70>,<built-in method strip of str object at 0x00000230855F6F70>
+<built-in method strip of str object at 0x00000230855F75F0>,<built-in method strip of str object at 0x00000230855F56B0>,<built-in method strip of str object at 0x00000230856092A0>,<built-in method strip of str object at 0x00000230855F6530>,<built-in method strip of str object at 0x00000230855F7E70>,<built-in method strip of str object at 0x00000230855F4A70>,<built-in method strip of str object at 0x0000023085609430>
+<built-in method strip of str object at 0x00000230855F7CF0>,<built-in method strip of str object at 0x0000023085609520>,<built-in method strip of str object at 0x0000023085609610>,<built-in method strip of str object at 0x00000230855F5E30>,<built-in method strip of str object at 0x00000230855F7CB0>,<built-in method strip of str object at 0x00000230855F56F0>,<built-in method strip of str object at 0x00000230855F5570>
+<built-in method strip of str object at 0x00000230855F7B70>,<built-in method strip of str object at 0x0000023085609840>,<built-in method strip of str object at 0x0000023085609930>,<built-in method strip of str object at 0x00000230855F4AF0>,<built-in method strip of str object at 0x00000230855F5AF0>,<built-in method strip of str object at 0x00000230855F7330>,<built-in method strip of str object at 0x0000023085609AC0>
+<built-in method strip of str object at 0x00000230855F4330>,<built-in method strip of str object at 0x00000230855F60B0>,<built-in method strip of str object at 0x00000230855F7F70>,<built-in method strip of str object at 0x00000230855F4170>,<built-in method strip of str object at 0x00000230855F7E30>,<built-in method strip of str object at 0x00000230855F68F0>,<built-in method strip of str object at 0x0000023085609390>
+<built-in method strip of str object at 0x00000230855F54B0>,<built-in method strip of str object at 0x0000023085609E30>,<built-in method strip of str object at 0x00000230855F6870>,<built-in method strip of str object at 0x00000230855F4430>,<built-in method strip of str object at 0x00000230855F4A30>,<built-in method strip of str object at 0x00000230855F43F0>,<built-in method strip of str object at 0x000002308560A100>
+<built-in method strip of str object at 0x00000230855F6C70>,<built-in method strip of str object at 0x00000230855F7A70>,<built-in method strip of str object at 0x00000230855F6030>,<built-in method strip of str object at 0x00000230855F76B0>,<built-in method strip of str object at 0x00000230855F6DB0>,<built-in method strip of str object at 0x0000023085604270>,<built-in method strip of str object at 0x0000023085609700>
+<built-in method strip of str object at 0x00000230855F79F0>,<built-in method strip of str object at 0x000002308560A470>,<built-in method strip of str object at 0x000002308560A560>,<built-in method strip of str object at 0x00000230855F6AF0>,<built-in method strip of str object at 0x00000230855F5BF0>,<built-in method strip of str object at 0x0000023085604670>,<built-in method strip of str object at 0x000002308560A740>
+<built-in method strip of str object at 0x00000230856066B0>,<built-in method strip of str object at 0x00000230856052F0>,<built-in method strip of str object at 0x000002308560A880>,<built-in method strip of str object at 0x0000023085605BB0>,<built-in method strip of str object at 0x0000023085604C70>,<built-in method strip of str object at 0x0000023085604030>,<built-in method strip of str object at 0x000002308560A9C0>
+<built-in method strip of str object at 0x0000023085604830>,<built-in method strip of str object at 0x00000230856042F0>,<built-in method strip of str object at 0x000002308560AB00>,<built-in method strip of str object at 0x00000230856067F0>,<built-in method strip of str object at 0x0000023085604070>,<built-in method strip of str object at 0x0000023085604EB0>,<built-in method strip of str object at 0x000002308560AD30>
+<built-in method strip of str object at 0x0000023085605430>,<built-in method strip of str object at 0x0000023085606970>,<built-in method strip of str object at 0x000002308560AE70>,<built-in method strip of str object at 0x0000023085604170>,<built-in method strip of str object at 0x0000023085606730>,<built-in method strip of str object at 0x00000230856046F0>,<built-in method strip of str object at 0x000002308560B050>
+<built-in method strip of str object at 0x0000023085606230>,<built-in method strip of str object at 0x00000230855832D0>,<built-in method strip of str object at 0x0000023085606A70>,<built-in method strip of str object at 0x0000023085605E70>,<built-in method strip of str object at 0x00000230856063B0>,<built-in method strip of str object at 0x0000023085604D30>,<built-in method strip of str object at 0x0000023085606670>
+<built-in method strip of str object at 0x00000230856059F0>,<built-in method strip of str object at 0x0000023085606BB0>,<built-in method strip of str object at 0x0000023085606CF0>,<built-in method strip of str object at 0x0000023085605030>,<built-in method strip of str object at 0x0000023085606130>,<built-in method strip of str object at 0x0000023085605730>,<built-in method strip of str object at 0x0000023085581A70>
+<built-in method strip of str object at 0x0000023085606030>,<built-in method strip of str object at 0x000002308560B6E0>,<built-in method strip of str object at 0x00000230856042B0>,<built-in method strip of str object at 0x0000023085606E30>,<built-in method strip of str object at 0x0000023085605870>,<built-in method strip of str object at 0x0000023085605C30>,<built-in method strip of str object at 0x000002308560B910>
+<built-in method strip of str object at 0x0000023085604FB0>,<built-in method strip of str object at 0x00000230856048B0>,<built-in method strip of str object at 0x00000230856051F0>,<built-in method strip of str object at 0x00000230856056F0>,<built-in method strip of str object at 0x0000023085606170>,<built-in method strip of str object at 0x0000023085604770>,<built-in method strip of str object at 0x000002308560B5A0>
+<built-in method strip of str object at 0x0000023085604E70>,<built-in method strip of str object at 0x0000023085606FB0>,<built-in method strip of str object at 0x0000023085607130>,<built-in method strip of str object at 0x00000230856064F0>,<built-in method strip of str object at 0x00000230856058F0>,<built-in method strip of str object at 0x0000023085606FF0>,<built-in method strip of str object at 0x000002308560B550>
+<built-in method strip of str object at 0x0000023085604A70>,<built-in method strip of str object at 0x000002308560BF50>,<built-in method strip of str object at 0x0000023085604AB0>,<built-in method strip of str object at 0x0000023085607270>,<built-in method strip of str object at 0x0000023085606A30>,<built-in method strip of str object at 0x0000023085605230>,<built-in method strip of str object at 0x000002308560BD70>
+<built-in method strip of str object at 0x00000230856053B0>,<built-in method strip of str object at 0x0000023085609F70>,<built-in method strip of str object at 0x0000023085605670>,<built-in method strip of str object at 0x00000230856057B0>,<built-in method strip of str object at 0x00000230856051B0>,<built-in method strip of str object at 0x00000230856060F0>,<built-in method strip of str object at 0x000002308560B280>
+<built-in method strip of str object at 0x0000023085605D70>,<built-in method strip of str object at 0x00000230856073F0>,<built-in method strip of str object at 0x0000023085608A80>,<built-in method strip of str object at 0x00000230856068F0>,<built-in method strip of str object at 0x0000023085607430>,<built-in method strip of str object at 0x0000023085604F70>,<built-in method strip of str object at 0x000002308560AFB0>
+<built-in method strip of str object at 0x00000230856055B0>,<built-in method strip of str object at 0x00000230856103A0>,<built-in method strip of str object at 0x0000023085610850>,<built-in method strip of str object at 0x0000023085607570>,<built-in method strip of str object at 0x0000023085606EB0>,<built-in method strip of str object at 0x0000023085604B70>,<built-in method strip of str object at 0x0000023085610B20>
+<built-in method strip of str object at 0x00000230856049B0>,<built-in method strip of str object at 0x00000230856076B0>,<built-in method strip of str object at 0x0000023085610C60>,<built-in method strip of str object at 0x0000023085605B30>,<built-in method strip of str object at 0x00000230856050B0>,<built-in method strip of str object at 0x00000230856077F0>,<built-in method strip of str object at 0x000002308181AE50>
+<built-in method strip of str object at 0x00000230856040B0>,<built-in method strip of str object at 0x0000023085605DF0>,<built-in method strip of str object at 0x00000230856071B0>,<built-in method strip of str object at 0x0000023085604930>,<built-in method strip of str object at 0x00000230856062F0>,<built-in method strip of str object at 0x00000230856054F0>,<built-in method strip of str object at 0x00000230856102B0>
+<built-in method strip of str object at 0x0000023085606330>,<built-in method strip of str object at 0x0000023085607930>,<built-in method strip of str object at 0x0000023085607A30>,<built-in method strip of str object at 0x00000230856049F0>,<built-in method strip of str object at 0x0000023085605A30>,<built-in method strip of str object at 0x0000023085607730>,<built-in method strip of str object at 0x00000230856103F0>
+<built-in method strip of str object at 0x0000023085606070>,<built-in method strip of str object at 0x00000230856114D0>,<built-in method strip of str object at 0x00000230856115C0>,<built-in method strip of str object at 0x0000023085606CB0>,<built-in method strip of str object at 0x0000023085607B70>,<built-in method strip of str object at 0x0000023085605C70>,<built-in method strip of str object at 0x0000023085611750>
+<built-in method strip of str object at 0x0000023085606370>,<built-in method strip of str object at 0x0000023085611840>,<built-in method strip of str object at 0x00000230856070B0>,<built-in method strip of str object at 0x0000023085607670>,<built-in method strip of str object at 0x0000023085604BB0>,<built-in method strip of str object at 0x0000023085607CF0>,<built-in method strip of str object at 0x00000230856119D0>
+<built-in method strip of str object at 0x0000023085606530>,<built-in method strip of str object at 0x0000023085611AC0>,<built-in method strip of str object at 0x0000023085611BB0>,<built-in method strip of str object at 0x0000023085606770>,<built-in method strip of str object at 0x0000023085606870>,<built-in method strip of str object at 0x0000023085605D30>,<built-in method strip of str object at 0x0000023085611D90>
+<built-in method strip of str object at 0x0000023085605570>,<built-in method strip of str object at 0x0000023085607E70>,<built-in method strip of str object at 0x00000230856058B0>,<built-in method strip of str object at 0x0000023085607030>,<built-in method strip of str object at 0x0000023085605630>,<built-in method strip of str object at 0x0000023085604BF0>,<built-in method strip of str object at 0x0000023085611070>
+<built-in method strip of str object at 0x00000230855E9DF0>,<built-in method strip of str object at 0x00000230855EB3F0>,<built-in method strip of str object at 0x00000230855E8D30>,<built-in method strip of str object at 0x00000230855E8E30>,<built-in method strip of str object at 0x00000230855E8170>,<built-in method strip of str object at 0x00000230855E88B0>,<built-in method strip of str object at 0x00000230856101C0>
+<built-in method strip of str object at 0x00000230855B40F0>,<built-in method strip of str object at 0x000002308558F6B0>,<built-in method strip of str object at 0x00000230855F2BA0>,<built-in method strip of str object at 0x00000230855E8F30>,<built-in method strip of str object at 0x00000230855E9EB0>,<built-in method strip of str object at 0x00000230855EACB0>,<built-in method strip of str object at 0x0000023085610030>
+<built-in method strip of str object at 0x000002308558F230>,<built-in method strip of str object at 0x00000230855A1930>,<built-in method strip of str object at 0x0000023085612790>,<built-in method strip of str object at 0x00000230855EAC70>,<built-in method strip of str object at 0x00000230855E84B0>,<built-in method strip of str object at 0x00000230855E9830>,<built-in method strip of str object at 0x00000230855E8870>
+<built-in method strip of str object at 0x0000023082CD10B0>,<built-in method strip of str object at 0x000002308558F270>,<built-in method strip of str object at 0x0000023085612F10>,<built-in method strip of str object at 0x00000230855E5A70>,<built-in method strip of str object at 0x00000230855CB9F0>,<built-in method strip of str object at 0x00000230855EB6F0>,<built-in method strip of str object at 0x00000230856131E0>
+<built-in method strip of str object at 0x00000230855E6CB0>,<built-in method strip of str object at 0x00000230856132D0>,<built-in method strip of str object at 0x00000230855E72F0>,<built-in method strip of str object at 0x00000230855EA9B0>,<built-in method strip of str object at 0x00000230855E8570>,<built-in method strip of str object at 0x00000230855E85F0>,<built-in method strip of str object at 0x0000023085612A60>
+<built-in method strip of str object at 0x00000230855E8EF0>,<built-in method strip of str object at 0x00000230855EB830>,<built-in method strip of str object at 0x00000230855EB8F0>,<built-in method strip of str object at 0x00000230855EAD70>,<built-in method strip of str object at 0x00000230855EB7F0>,<built-in method strip of str object at 0x00000230855B41B0>,<built-in method strip of str object at 0x0000023085613410>
+<built-in method strip of str object at 0x0000023082D4C9F0>,<built-in method strip of str object at 0x0000023085613780>,<built-in method strip of str object at 0x0000023082D4C970>,<built-in method strip of str object at 0x00000230855EA770>,<built-in method strip of str object at 0x00000230855EAB30>,<built-in method strip of str object at 0x00000230855C8970>,<built-in method strip of str object at 0x0000023085613A00>
+<built-in method strip of str object at 0x0000023082D4FE30>,<built-in method strip of str object at 0x00000230855C90B0>,<built-in method strip of str object at 0x0000023085613B40>,<built-in method strip of str object at 0x00000230855EA270>,<built-in method strip of str object at 0x00000230855EB470>,<built-in method strip of str object at 0x00000230855DD370>,<built-in method strip of str object at 0x0000023085613CD0>
+<built-in method strip of str object at 0x00000230855DCCF0>,<built-in method strip of str object at 0x0000023085613DC0>,<built-in method strip of str object at 0x00000230855DD830>,<built-in method strip of str object at 0x00000230855DD9F0>,<built-in method strip of str object at 0x00000230855DCD30>,<built-in method strip of str object at 0x00000230855DDF30>,<built-in method strip of str object at 0x00000230855DD3F0>
+<built-in method strip of str object at 0x00000230855DDC30>,<built-in method strip of str object at 0x0000023085613690>,<built-in method strip of str object at 0x0000023085613640>,<built-in method strip of str object at 0x00000230855DD0F0>,<built-in method strip of str object at 0x00000230855DEEF0>,<built-in method strip of str object at 0x00000230855EA370>,<built-in method strip of str object at 0x0000023085613F00>
+<built-in method strip of str object at 0x00000230855EBDF0>,<built-in method strip of str object at 0x0000023085613F50>,<built-in method strip of str object at 0x0000023085612A10>,<built-in method strip of str object at 0x00000230855EBBB0>,<built-in method strip of str object at 0x00000230855EA730>,<built-in method strip of str object at 0x0000023085606830>,<built-in method strip of str object at 0x00000230856139B0>
+<built-in method strip of str object at 0x00000230855DDBB0>,<built-in method strip of str object at 0x0000023085604EF0>,<built-in method strip of str object at 0x00000230856060B0>,<built-in method strip of str object at 0x0000023085605A70>,<built-in method strip of str object at 0x00000230856074F0>,<built-in method strip of str object at 0x0000023085607F70>,<built-in method strip of str object at 0x00000230856145D0>
+<built-in method strip of str object at 0x00000230855DDA30>,<built-in method strip of str object at 0x00000230856077B0>,<built-in method strip of str object at 0x0000023085614AD0>,<built-in method strip of str object at 0x0000023085606E70>,<built-in method strip of str object at 0x00000230856046B0>,<built-in method strip of str object at 0x0000023085605830>,<built-in method strip of str object at 0x0000023085614D50>
+<built-in method strip of str object at 0x00000230856059B0>,<built-in method strip of str object at 0x0000023085614E40>,<built-in method strip of str object at 0x0000023085605F30>,<built-in method strip of str object at 0x00000230856050F0>,<built-in method strip of str object at 0x0000023085604FF0>,<built-in method strip of str object at 0x00000230856061B0>,<built-in method strip of str object at 0x00000230856063F0>
+<built-in method strip of str object at 0x0000023085605970>,<built-in method strip of str object at 0x0000023085605AF0>,<built-in method strip of str object at 0x0000023085615110>,<built-in method strip of str object at 0x0000023085607970>,<built-in method strip of str object at 0x00000230856052B0>,<built-in method strip of str object at 0x00000230856048F0>,<built-in method strip of str object at 0x0000023085615340>
+<built-in method strip of str object at 0x00000230856070F0>,<built-in method strip of str object at 0x0000023085615430>,<built-in method strip of str object at 0x0000023085615520>,<built-in method strip of str object at 0x0000023085605270>,<built-in method strip of str object at 0x00000230856045B0>,<built-in method strip of str object at 0x0000023085605CB0>,<built-in method strip of str object at 0x00000230856079F0>
+<built-in method strip of str object at 0x0000023085607170>,<built-in method strip of str object at 0x00000230856041B0>,<built-in method strip of str object at 0x0000023085615750>,<built-in method strip of str object at 0x00000230856074B0>,<built-in method strip of str object at 0x0000023085607DF0>,<built-in method strip of str object at 0x0000023085607770>,<built-in method strip of str object at 0x00000230856055F0>
+<built-in method strip of str object at 0x00000230856047B0>,<built-in method strip of str object at 0x0000023085607AB0>,<built-in method strip of str object at 0x0000023085615A20>,<built-in method strip of str object at 0x0000023085607830>,<built-in method strip of str object at 0x0000023085604730>,<built-in method strip of str object at 0x00000230856067B0>,<built-in method strip of str object at 0x0000023085615C50>
+<built-in method strip of str object at 0x00000230856053F0>,<built-in method strip of str object at 0x0000023085615D40>,<built-in method strip of str object at 0x0000023085615E30>,<built-in method strip of str object at 0x0000023085607BB0>,<built-in method strip of str object at 0x0000023085606BF0>,<built-in method strip of str object at 0x0000023085605FB0>,<built-in method strip of str object at 0x0000023085615F70>
+<built-in method strip of str object at 0x0000023085606930>,<built-in method strip of str object at 0x0000023085604470>,<built-in method strip of str object at 0x0000023085605330>,<built-in method strip of str object at 0x0000023085604970>,<built-in method strip of str object at 0x00000230856056B0>,<built-in method strip of str object at 0x0000023085605530>,<built-in method strip of str object at 0x0000023085614BC0>
+<built-in method strip of str object at 0x0000023085606D30>,<built-in method strip of str object at 0x0000023085605070>,<built-in method strip of str object at 0x0000023085616330>,<built-in method strip of str object at 0x0000023085607530>,<built-in method strip of str object at 0x0000023085607630>,<built-in method strip of str object at 0x00000230856062B0>,<built-in method strip of str object at 0x00000230856165B0>
+<built-in method strip of str object at 0x00000230856041F0>,<built-in method strip of str object at 0x00000230856166A0>,<built-in method strip of str object at 0x0000023085607230>,<built-in method strip of str object at 0x0000023085606AF0>,<built-in method strip of str object at 0x0000023085607BF0>,<built-in method strip of str object at 0x0000023085606F70>,<built-in method strip of str object at 0x0000023085616880>
+<built-in method strip of str object at 0x00000230856043B0>,<built-in method strip of str object at 0x0000023085606EF0>,<built-in method strip of str object at 0x00000230856169C0>,<built-in method strip of str object at 0x0000023085606B30>,<built-in method strip of str object at 0x0000023085606630>,<built-in method strip of str object at 0x00000230856045F0>,<built-in method strip of str object at 0x0000023085616BA0>
+<built-in method strip of str object at 0x00000230856075B0>,<built-in method strip of str object at 0x0000023085606F30>,<built-in method strip of str object at 0x00000230856078B0>,<built-in method strip of str object at 0x00000230856072B0>,<built-in method strip of str object at 0x0000023085604E30>,<built-in method strip of str object at 0x00000230856044B0>,<built-in method strip of str object at 0x00000230856158E0>
+<built-in method strip of str object at 0x0000023085607DB0>,<built-in method strip of str object at 0x0000023085606270>,<built-in method strip of str object at 0x0000023085604C30>,<built-in method strip of str object at 0x00000230856065B0>,<built-in method strip of str object at 0x0000023085606570>,<built-in method strip of str object at 0x0000023085607CB0>,<built-in method strip of str object at 0x00000230856167E0>
+<built-in method strip of str object at 0x0000023085606B70>,<built-in method strip of str object at 0x0000023085617280>,<built-in method strip of str object at 0x0000023085617370>,<built-in method strip of str object at 0x0000023085607070>,<built-in method strip of str object at 0x0000023085607B30>,<built-in method strip of str object at 0x00000230856066F0>,<built-in method strip of str object at 0x0000023085617500>
+<built-in method strip of str object at 0x00000230856073B0>,<built-in method strip of str object at 0x00000230856175F0>,<built-in method strip of str object at 0x00000230856179B0>,<built-in method strip of str object at 0x00000230856078F0>,<built-in method strip of str object at 0x00000230856075F0>,<built-in method strip of str object at 0x0000023085604570>,<built-in method strip of str object at 0x00000230856177D0>
+<built-in method strip of str object at 0x00000230856076F0>,<built-in method strip of str object at 0x00000230856047F0>,<built-in method strip of str object at 0x00000230856079B0>,<built-in method strip of str object at 0x0000023085606C30>,<built-in method strip of str object at 0x000002308560C930>,<built-in method strip of str object at 0x000002308560D1F0>,<built-in method strip of str object at 0x0000023085616510>
+<built-in method strip of str object at 0x0000023085605EF0>,<built-in method strip of str object at 0x0000023085607EF0>,<built-in method strip of str object at 0x0000023085617BE0>,<built-in method strip of str object at 0x000002308560EAB0>,<built-in method strip of str object at 0x000002308560DBF0>,<built-in method strip of str object at 0x000002308560C2F0>,<built-in method strip of str object at 0x0000023085617E60>
+<built-in method strip of str object at 0x000002308560EBB0>,<built-in method strip of str object at 0x000002308560C7B0>,<built-in method strip of str object at 0x0000023082D701B0>,<built-in method strip of str object at 0x000002308560E470>,<built-in method strip of str object at 0x000002308560C2B0>,<built-in method strip of str object at 0x000002308560ECB0>,<built-in method strip of str object at 0x000002308560DBB0>
+<built-in method strip of str object at 0x000002308560D1B0>,<built-in method strip of str object at 0x000002308560D470>,<built-in method strip of str object at 0x000002308560EE30>,<built-in method strip of str object at 0x000002308560D170>,<built-in method strip of str object at 0x000002308560C6F0>,<built-in method strip of str object at 0x000002308560ECF0>,<built-in method strip of str object at 0x00000230856161F0>
+<built-in method strip of str object at 0x000002308560D070>,<built-in method strip of str object at 0x0000023085617DC0>,<built-in method strip of str object at 0x000002308560D030>,<built-in method strip of str object at 0x000002308560EF70>,<built-in method strip of str object at 0x000002308560D230>,<built-in method strip of str object at 0x000002308560D770>,<built-in method strip of str object at 0x0000023085616B50>
+<built-in method strip of str object at 0x000002308560E7B0>,<built-in method strip of str object at 0x0000023085617E10>,<built-in method strip of str object at 0x000002308560C830>,<built-in method strip of str object at 0x000002308560E270>,<built-in method strip of str object at 0x000002308560E0B0>,<built-in method strip of str object at 0x000002308560D830>,<built-in method strip of str object at 0x000002308561C9E0>
+<built-in method strip of str object at 0x000002308560CA70>,<built-in method strip of str object at 0x000002308561CAD0>,<built-in method strip of str object at 0x000002308560F0F0>,<built-in method strip of str object at 0x000002308560E5B0>,<built-in method strip of str object at 0x000002308560F130>,<built-in method strip of str object at 0x000002308560DEF0>,<built-in method strip of str object at 0x000002308561CD00>
+<built-in method strip of str object at 0x000002308560D6B0>,<built-in method strip of str object at 0x000002308561CDF0>,<built-in method strip of str object at 0x000002308560F270>,<built-in method strip of str object at 0x000002308560E170>,<built-in method strip of str object at 0x000002308560EB70>,<built-in method strip of str object at 0x000002308560D8B0>,<built-in method strip of str object at 0x000002308561D020>
+<built-in method strip of str object at 0x000002308560C3B0>,<built-in method strip of str object at 0x000002308560F3B0>,<built-in method strip of str object at 0x000002308560DEB0>,<built-in method strip of str object at 0x000002308560EC70>,<built-in method strip of str object at 0x000002308560DC30>,<built-in method strip of str object at 0x000002308560D0B0>,<built-in method strip of str object at 0x000002308561C7B0>
+<built-in method strip of str object at 0x000002308560DA30>,<built-in method strip of str object at 0x000002308561D3E0>,<built-in method strip of str object at 0x000002308560F4F0>,<built-in method strip of str object at 0x000002308560F630>,<built-in method strip of str object at 0x000002308560D970>,<built-in method strip of str object at 0x000002308560E030>,<built-in method strip of str object at 0x000002308561D660>
+<built-in method strip of str object at 0x000002308560E4B0>,<built-in method strip of str object at 0x000002308560DFF0>,<built-in method strip of str object at 0x000002308561D7A0>,<built-in method strip of str object at 0x000002308560F170>,<built-in method strip of str object at 0x000002308560E2B0>,<built-in method strip of str object at 0x000002308560D2F0>,<built-in method strip of str object at 0x000002308561D930>
+<built-in method strip of str object at 0x000002308560C870>,<built-in method strip of str object at 0x000002308560F770>,<built-in method strip of str object at 0x000002308560D270>,<built-in method strip of str object at 0x000002308560F7B0>,<built-in method strip of str object at 0x000002308560EA70>,<built-in method strip of str object at 0x000002308560E5F0>,<built-in method strip of str object at 0x000002308561C260>
+<built-in method strip of str object at 0x000002308560CAB0>,<built-in method strip of str object at 0x000002308561DCF0>,<built-in method strip of str object at 0x000002308561DDE0>,<built-in method strip of str object at 0x000002308560F8F0>,<built-in method strip of str object at 0x000002308560FA30>,<built-in method strip of str object at 0x000002308560E430>,<built-in method strip of str object at 0x000002308561DFC0>
+<built-in method strip of str object at 0x000002308560D870>,<built-in method strip of str object at 0x000002308560C630>,<built-in method strip of str object at 0x000002308560D9F0>,<built-in method strip of str object at 0x000002308560DB70>,<built-in method strip of str object at 0x000002308560C730>,<built-in method strip of str object at 0x000002308560F570>,<built-in method strip of str object at 0x000002308561D2A0>
+<built-in method strip of str object at 0x000002308560E130>,<built-in method strip of str object at 0x000002308560E570>,<built-in method strip of str object at 0x000002308561E330>,<built-in method strip of str object at 0x000002308560FCF0>,<built-in method strip of str object at 0x000002308560DE30>,<built-in method strip of str object at 0x000002308560CF70>,<built-in method strip of str object at 0x000002308561E5B0>
+<built-in method strip of str object at 0x000002308560DC70>,<built-in method strip of str object at 0x000002308561E6A0>,<built-in method strip of str object at 0x000002308561E790>,<built-in method strip of str object at 0x000002308560EB30>,<built-in method strip of str object at 0x000002308560D0F0>,<built-in method strip of str object at 0x000002308560E0F0>,<built-in method strip of str object at 0x000002308560CFB0>
+<built-in method strip of str object at 0x000002308560E330>,<built-in method strip of str object at 0x000002308560FDF0>,<built-in method strip of str object at 0x000002308560DD70>,<built-in method strip of str object at 0x000002308560FE30>,<built-in method strip of str object at 0x000002308560E4F0>,<built-in method strip of str object at 0x000002308560F5B0>,<built-in method strip of str object at 0x000002308561D8E0>
+<built-in method strip of str object at 0x000002308560CAF0>,<built-in method strip of str object at 0x000002308560FF70>,<built-in method strip of str object at 0x000002308560EF30>,<built-in method strip of str object at 0x000002308560ED30>,<built-in method strip of str object at 0x000002308560E7F0>,<built-in method strip of str object at 0x000002308560D9B0>,<built-in method strip of str object at 0x000002308561D5C0>
+<built-in method strip of str object at 0x000002308560DF30>,<built-in method strip of str object at 0x000002308560F6B0>,<built-in method strip of str object at 0x000002308560FC70>,<built-in method strip of str object at 0x000002308560E530>,<built-in method strip of str object at 0x000002308560D330>,<built-in method strip of str object at 0x000002308560E930>,<built-in method strip of str object at 0x000002308561DF20>
+<built-in method strip of str object at 0x000002308560D2B0>,<built-in method strip of str object at 0x000002308560D370>,<built-in method strip of str object at 0x000002308560D7B0>,<built-in method strip of str object at 0x000002308560F9B0>,<built-in method strip of str object at 0x000002308560E8F0>,<built-in method strip of str object at 0x000002308560F2B0>,<built-in method strip of str object at 0x000002308561C3F0>
+<built-in method strip of str object at 0x000002308560C770>,<built-in method strip of str object at 0x000002308561F500>,<built-in method strip of str object at 0x000002308560FD30>,<built-in method strip of str object at 0x000002308560F8B0>,<built-in method strip of str object at 0x000002308560E3F0>,<built-in method strip of str object at 0x000002308560E970>,<built-in method strip of str object at 0x000002308561F730>
+<built-in method strip of str object at 0x000002308560E8B0>,<built-in method strip of str object at 0x000002308560CE30>,<built-in method strip of str object at 0x000002308561F870>,<built-in method strip of str object at 0x000002308560E6F0>,<built-in method strip of str object at 0x000002308560C0B0>,<built-in method strip of str object at 0x000002308560FC30>,<built-in method strip of str object at 0x000002308560C7F0>
+<built-in method strip of str object at 0x000002308560CBF0>,<built-in method strip of str object at 0x000002308560EEF0>,<built-in method strip of str object at 0x000002308561FAF0>,<built-in method strip of str object at 0x000002308560CEF0>,<built-in method strip of str object at 0x000002308560FCB0>,<built-in method strip of str object at 0x000002308560F6F0>,<built-in method strip of str object at 0x000002308560C5F0>
+<built-in method strip of str object at 0x000002308560F1F0>,<built-in method strip of str object at 0x000002308561FDC0>,<built-in method strip of str object at 0x0000023085581B90>,<built-in method strip of str object at 0x000002308560C8B0>,<built-in method strip of str object at 0x000002308560DAF0>,<built-in method strip of str object at 0x000002308560D6F0>,<built-in method strip of str object at 0x000002308561F410>
+<built-in method strip of str object at 0x000002308560CD70>,<built-in method strip of str object at 0x000002308561FF50>,<built-in method strip of str object at 0x000002308560F230>,<built-in method strip of str object at 0x000002308560E770>,<built-in method strip of str object at 0x000002308560EAF0>,<built-in method strip of str object at 0x000002308560E9F0>,<built-in method strip of str object at 0x000002308561ED80>
+<built-in method strip of str object at 0x000002308560DDB0>,<built-in method strip of str object at 0x000002308560F930>,<built-in method strip of str object at 0x000002308560E2F0>,<built-in method strip of str object at 0x000002308560F470>,<built-in method strip of str object at 0x000002308560D430>,<built-in method strip of str object at 0x000002308560F730>,<built-in method strip of str object at 0x000002308560D130>
+<built-in method strip of str object at 0x000002308560CD30>,<built-in method strip of str object at 0x000002308561F960>,<built-in method strip of str object at 0x000002308560CB70>,<built-in method strip of str object at 0x000002308560F1B0>,<built-in method strip of str object at 0x000002308560C5B0>,<built-in method strip of str object at 0x000002308560CC70>,<built-in method strip of str object at 0x000002308561F9B0>
+<built-in method strip of str object at 0x000002308560D7F0>,<built-in method strip of str object at 0x000002308560D730>,<built-in method strip of str object at 0x000002308560FA70>,<built-in method strip of str object at 0x000002308560DFB0>,<built-in method strip of str object at 0x000002308560FD70>,<built-in method strip of str object at 0x000002308560EBF0>,<built-in method strip of str object at 0x0000023085620030>
+<built-in method strip of str object at 0x000002308560DAB0>,<built-in method strip of str object at 0x000002308560FEF0>,<built-in method strip of str object at 0x000002308560E6B0>,<built-in method strip of str object at 0x000002308560FB30>,<built-in method strip of str object at 0x000002308560D3B0>,<built-in method strip of str object at 0x000002308560F670>,<built-in method strip of str object at 0x0000023085620710>
+<built-in method strip of str object at 0x000002308560D3F0>,<built-in method strip of str object at 0x000002308560FE70>,<built-in method strip of str object at 0x000002308560F530>,<built-in method strip of str object at 0x000002308560F030>,<built-in method strip of str object at 0x000002308560E3B0>,<built-in method strip of str object at 0x000002308560E870>,<built-in method strip of str object at 0x000002308560CFF0>
+<built-in method strip of str object at 0x000002308560F7F0>,<built-in method strip of str object at 0x000002308560C270>,<built-in method strip of str object at 0x000002308560C9F0>,<built-in method strip of str object at 0x000002308560CDB0>,<built-in method strip of str object at 0x000002308560CEB0>,<built-in method strip of str object at 0x000002308560C8F0>,<built-in method strip of str object at 0x00000230856205D0>
+<built-in method strip of str object at 0x000002308560FB70>,<built-in method strip of str object at 0x0000023085621520>,<built-in method strip of str object at 0x000002308560DDF0>,<built-in method strip of str object at 0x000002308560EFB0>,<built-in method strip of str object at 0x000002308560DB30>,<built-in method strip of str object at 0x000002308560F970>,<built-in method strip of str object at 0x0000023085621700>
+<built-in method strip of str object at 0x000002308560F870>,<built-in method strip of str object at 0x000002308560FFB0>,<built-in method strip of str object at 0x0000023085621840>,<built-in method strip of str object at 0x000002308560EA30>,<built-in method strip of str object at 0x000002308560D5B0>,<built-in method strip of str object at 0x000002308560F370>,<built-in method strip of str object at 0x00000230856219D0>
+<built-in method strip of str object at 0x000002308560F0B0>,<built-in method strip of str object at 0x000002308560DD30>,<built-in method strip of str object at 0x000002308560C6B0>,<built-in method strip of str object at 0x000002308560CBB0>,<built-in method strip of str object at 0x000002308560DF70>,<built-in method strip of str object at 0x000002308560F330>,<built-in method strip of str object at 0x00000230856208A0>
+<built-in method strip of str object at 0x000002308560D930>,<built-in method strip of str object at 0x0000023085621D90>,<built-in method strip of str object at 0x0000023085621E80>,<built-in method strip of str object at 0x000002308560D8F0>,<built-in method strip of str object at 0x000002308560DCB0>,<built-in method strip of str object at 0x000002308560D4B0>,<built-in method strip of str object at 0x0000023085622060>
+<built-in method strip of str object at 0x000002308560C970>,<built-in method strip of str object at 0x000002308560EDB0>,<built-in method strip of str object at 0x000002308560D630>,<built-in method strip of str object at 0x000002308560E370>,<built-in method strip of str object at 0x000002308560DE70>,<built-in method strip of str object at 0x000002308560CC30>,<built-in method strip of str object at 0x00000230856203A0>
+<built-in method strip of str object at 0x000002308560CCB0>,<built-in method strip of str object at 0x000002308560F430>,<built-in method strip of str object at 0x000002308560E670>,<built-in method strip of str object at 0x000002308560EFF0>,<built-in method strip of str object at 0x000002308560C9B0>,<built-in method strip of str object at 0x000002308560E630>,<built-in method strip of str object at 0x0000023085620DA0>
+<built-in method strip of str object at 0x000002308560EDF0>,<built-in method strip of str object at 0x000002308560CDF0>,<built-in method strip of str object at 0x000002308560F9F0>,<built-in method strip of str object at 0x000002308560EC30>,<built-in method strip of str object at 0x000002308560F3F0>,<built-in method strip of str object at 0x000002308560DCF0>,<built-in method strip of str object at 0x0000023085621C00>
+<built-in method strip of str object at 0x000002308560FBF0>,<built-in method strip of str object at 0x000002308560FAF0>,<built-in method strip of str object at 0x000002308560F2F0>,<built-in method strip of str object at 0x000002308560C3F0>,<built-in method strip of str object at 0x000002308560E1F0>,<built-in method strip of str object at 0x000002308560D5F0>,<built-in method strip of str object at 0x0000023085620760>
+<built-in method strip of str object at 0x000002308560E730>,<built-in method strip of str object at 0x000002308560CCF0>,<built-in method strip of str object at 0x0000023085622CE0>,<built-in method strip of str object at 0x000002308560D570>,<built-in method strip of str object at 0x000002308560FDB0>,<built-in method strip of str object at 0x000002308560CF30>,<built-in method strip of str object at 0x0000023085622EC0>
+<built-in method strip of str object at 0x000002308560F070>,<built-in method strip of str object at 0x000002308560FAB0>,<built-in method strip of str object at 0x000002308560F830>,<built-in method strip of str object at 0x000002308560CE70>,<built-in method strip of str object at 0x000002308560DA70>,<built-in method strip of str object at 0x000002308560EEB0>,<built-in method strip of str object at 0x0000023085620E40>
+<built-in method strip of str object at 0x000002308560E230>,<built-in method strip of str object at 0x0000023085623230>,<built-in method strip of str object at 0x000002308560FF30>,<built-in method strip of str object at 0x000002308560D530>,<built-in method strip of str object at 0x000002308560EE70>,<built-in method strip of str object at 0x000002308560E1B0>,<built-in method strip of str object at 0x00000230856234B0>
+<built-in method strip of str object at 0x000002308560D670>,<built-in method strip of str object at 0x000002308560F4B0>,<built-in method strip of str object at 0x000002308560CA30>,<built-in method strip of str object at 0x000002308560D4F0>,<built-in method strip of str object at 0x000002308560F5F0>,<built-in method strip of str object at 0x000002308560FEB0>,<built-in method strip of str object at 0x0000023085621FC0>
+<built-in method strip of str object at 0x000002308560E070>,<built-in method strip of str object at 0x000002308560CB30>,<built-in method strip of str object at 0x0000023085623870>,<built-in method strip of str object at 0x000002308560FBB0>,<built-in method strip of str object at 0x000002308560E830>,<built-in method strip of str object at 0x00000230856194F0>,<built-in method strip of str object at 0x0000023085623AA0>
+<built-in method strip of str object at 0x000002308560E9B0>,<built-in method strip of str object at 0x0000023085623B90>,<built-in method strip of str object at 0x0000023085581950>,<built-in method strip of str object at 0x000002308560ED70>,<built-in method strip of str object at 0x000002308561A5B0>,<built-in method strip of str object at 0x00000230856181B0>,<built-in method strip of str object at 0x0000023085618130>
+<built-in method strip of str object at 0x000002308561A030>,<built-in method strip of str object at 0x0000023085581D70>,<built-in method strip of str object at 0x00000230856190B0>,<built-in method strip of str object at 0x000002308561A6F0>,<built-in method strip of str object at 0x0000023085618CB0>,<built-in method strip of str object at 0x000002308561A870>,<built-in method strip of str object at 0x0000023085622600>
+<built-in method strip of str object at 0x0000023085618070>,<built-in method strip of str object at 0x0000023085623730>,<built-in method strip of str object at 0x00000230856224C0>,<built-in method strip of str object at 0x0000023085618EB0>,<built-in method strip of str object at 0x0000023085619E30>,<built-in method strip of str object at 0x0000023085619130>,<built-in method strip of str object at 0x0000023085618F70>
+<built-in method strip of str object at 0x00000230856188B0>,<built-in method strip of str object at 0x000002308561A9B0>,<built-in method strip of str object at 0x0000023085623960>,<built-in method strip of str object at 0x0000023085619CF0>,<built-in method strip of str object at 0x000002308561A230>,<built-in method strip of str object at 0x0000023085618D70>,<built-in method strip of str object at 0x0000023085623CD0>
+<built-in method strip of str object at 0x0000023085619370>,<built-in method strip of str object at 0x0000023085620440>,<built-in method strip of str object at 0x0000023085623140>,<built-in method strip of str object at 0x000002308561AAF0>,<built-in method strip of str object at 0x0000023085619070>,<built-in method strip of str object at 0x0000023085619530>,<built-in method strip of str object at 0x00000230856195F0>
+<built-in method strip of str object at 0x000002308561A330>,<built-in method strip of str object at 0x0000023085624A80>,<built-in method strip of str object at 0x0000023085624B70>,<built-in method strip of str object at 0x000002308561AC30>,<built-in method strip of str object at 0x0000023085619670>,<built-in method strip of str object at 0x0000023085618370>,<built-in method strip of str object at 0x0000023085624D00>
+<built-in method strip of str object at 0x00000230856182B0>,<built-in method strip of str object at 0x000002308561AD70>,<built-in method strip of str object at 0x0000023085619A70>,<built-in method strip of str object at 0x0000023085619CB0>,<built-in method strip of str object at 0x0000023085618730>,<built-in method strip of str object at 0x00000230856196B0>,<built-in method strip of str object at 0x0000023085624760>
+<built-in method strip of str object at 0x00000230856180B0>,<built-in method strip of str object at 0x0000023085625070>,<built-in method strip of str object at 0x000002308561A170>,<built-in method strip of str object at 0x000002308561AFF0>,<built-in method strip of str object at 0x0000023085618330>,<built-in method strip of str object at 0x0000023085618170>,<built-in method strip of str object at 0x0000023085625340>
+<built-in method strip of str object at 0x00000230856192F0>,<built-in method strip of str object at 0x0000023085619BF0>,<built-in method strip of str object at 0x00000230856199B0>,<built-in method strip of str object at 0x0000023085618930>,<built-in method strip of str object at 0x0000023085618FB0>,<built-in method strip of str object at 0x000002308561A2F0>,<built-in method strip of str object at 0x00000230856248A0>
+<built-in method strip of str object at 0x0000023085619470>,<built-in method strip of str object at 0x00000230856256B0>,<built-in method strip of str object at 0x00000230856257A0>,<built-in method strip of str object at 0x000002308561B0F0>,<built-in method strip of str object at 0x000002308561B270>,<built-in method strip of str object at 0x0000023085619BB0>,<built-in method strip of str object at 0x0000023085625980>
+<built-in method strip of str object at 0x000002308561A130>,<built-in method strip of str object at 0x000002308561AD30>,<built-in method strip of str object at 0x0000023085625AC0>,<built-in method strip of str object at 0x0000023085619030>,<built-in method strip of str object at 0x0000023085618430>,<built-in method strip of str object at 0x000002308561B3B0>,<built-in method strip of str object at 0x0000023085625C00>
+<built-in method strip of str object at 0x0000023085618230>,<built-in method strip of str object at 0x000002308561B130>,<built-in method strip of str object at 0x0000023085625D40>,<built-in method strip of str object at 0x000002308561A0F0>,<built-in method strip of str object at 0x000002308561A8B0>,<built-in method strip of str object at 0x0000023085619A30>,<built-in method strip of str object at 0x0000023085625F70>
+<built-in method strip of str object at 0x0000023085619D70>,<built-in method strip of str object at 0x000002308561B530>,<built-in method strip of str object at 0x00000230856260B0>,<built-in method strip of str object at 0x0000023085619EF0>,<built-in method strip of str object at 0x000002308561B2F0>,<built-in method strip of str object at 0x000002308561A730>,<built-in method strip of str object at 0x0000023085626290>
+<built-in method strip of str object at 0x0000023085619DB0>,<built-in method strip of str object at 0x0000023085581BF0>,<built-in method strip of str object at 0x000002308561B630>,<built-in method strip of str object at 0x000002308561A630>,<built-in method strip of str object at 0x000002308561AF70>,<built-in method strip of str object at 0x0000023085618B30>,<built-in method strip of str object at 0x000002308561B230>
+<built-in method strip of str object at 0x000002308561A2B0>,<built-in method strip of str object at 0x000002308561B770>,<built-in method strip of str object at 0x000002308561B8B0>,<built-in method strip of str object at 0x0000023085619FF0>,<built-in method strip of str object at 0x000002308561ACF0>,<built-in method strip of str object at 0x000002308561AFB0>,<built-in method strip of str object at 0x0000023085582C70>
+<built-in method strip of str object at 0x0000023085618A30>,<built-in method strip of str object at 0x0000023085626920>,<built-in method strip of str object at 0x000002308561A970>,<built-in method strip of str object at 0x000002308561B9F0>,<built-in method strip of str object at 0x0000023085618E30>,<built-in method strip of str object at 0x0000023085618B70>,<built-in method strip of str object at 0x0000023085626B50>
+<built-in method strip of str object at 0x0000023085618EF0>,<built-in method strip of str object at 0x000002308561A0B0>,<built-in method strip of str object at 0x000002308561ACB0>,<built-in method strip of str object at 0x00000230856187F0>,<built-in method strip of str object at 0x00000230856193F0>,<built-in method strip of str object at 0x0000023085619F70>,<built-in method strip of str object at 0x00000230856267E0>
+<built-in method strip of str object at 0x0000023085618570>,<built-in method strip of str object at 0x000002308561BB70>,<built-in method strip of str object at 0x000002308561BCF0>,<built-in method strip of str object at 0x000002308561B0B0>,<built-in method strip of str object at 0x0000023085619170>,<built-in method strip of str object at 0x000002308561BBB0>,<built-in method strip of str object at 0x0000023085626790>
+<built-in method strip of str object at 0x0000023085619770>,<built-in method strip of str object at 0x0000023085627190>,<built-in method strip of str object at 0x000002308561B030>,<built-in method strip of str object at 0x000002308561BE30>,<built-in method strip of str object at 0x000002308561B5F0>,<built-in method strip of str object at 0x0000023085618630>,<built-in method strip of str object at 0x00000230856273C0>
+<built-in method strip of str object at 0x0000023085618A70>,<built-in method strip of str object at 0x00000230856274B0>,<built-in method strip of str object at 0x0000023085618270>,<built-in method strip of str object at 0x00000230856194B0>,<built-in method strip of str object at 0x00000230856186F0>,<built-in method strip of str object at 0x00000230856186B0>,<built-in method strip of str object at 0x0000023085627690>
+<built-in method strip of str object at 0x0000023085618DB0>,<built-in method strip of str object at 0x000002308561BFB0>,<built-in method strip of str object at 0x00000230856277D0>,<built-in method strip of str object at 0x000002308561B4B0>,<built-in method strip of str object at 0x000002308561B5B0>,<built-in method strip of str object at 0x000002308561BA70>,<built-in method strip of str object at 0x00000230856279B0>
+<built-in method strip of str object at 0x000002308561A9F0>,<built-in method strip of str object at 0x0000023085627AA0>,<built-in method strip of str object at 0x0000023085627B90>,<built-in method strip of str object at 0x000002308561AB30>,<built-in method strip of str object at 0x000002308561BDF0>,<built-in method strip of str object at 0x000002308561BCB0>,<built-in method strip of str object at 0x0000023085627D20>
+<built-in method strip of str object at 0x0000023085618BF0>,<built-in method strip of str object at 0x0000023085618830>,<built-in method strip of str object at 0x0000023085627E60>,<built-in method strip of str object at 0x0000023085618DF0>,<built-in method strip of str object at 0x000002308561A5F0>,<built-in method strip of str object at 0x00000230856185B0>,<built-in method strip of str object at 0x00000230828D1FB0>
+<built-in method strip of str object at 0x0000023085619970>,<built-in method strip of str object at 0x000002308561A6B0>,<built-in method strip of str object at 0x000002308561BB30>,<built-in method strip of str object at 0x000002308561B670>,<built-in method strip of str object at 0x000002308561AA70>,<built-in method strip of str object at 0x000002308561A3F0>,<built-in method strip of str object at 0x0000023085627640>
+<built-in method strip of str object at 0x000002308561B330>,<built-in method strip of str object at 0x00000230856190F0>,<built-in method strip of str object at 0x000002308561A830>,<built-in method strip of str object at 0x0000023085619430>,<built-in method strip of str object at 0x000002308561AC70>,<built-in method strip of str object at 0x000002308561A1F0>,<built-in method strip of str object at 0x0000023085625E80>
+<built-in method strip of str object at 0x000002308561AE70>,<built-in method strip of str object at 0x00000230856264C0>,<built-in method strip of str object at 0x0000023085627BE0>,<built-in method strip of str object at 0x000002308561A7B0>,<built-in method strip of str object at 0x000002308561B930>,<built-in method strip of str object at 0x0000023085619F30>,<built-in method strip of str object at 0x000002308562C170>
+<built-in method strip of str object at 0x0000023085618FF0>,<built-in method strip of str object at 0x000002308562C9E0>,<built-in method strip of str object at 0x000002308561AEF0>,<built-in method strip of str object at 0x000002308561A070>,<built-in method strip of str object at 0x00000230856182F0>,<built-in method strip of str object at 0x00000230856183B0>,<built-in method strip of str object at 0x000002308562CC10>
+<built-in method strip of str object at 0x0000023085618F30>,<built-in method strip of str object at 0x000002308562CD00>,<built-in method strip of str object at 0x000002308562CDF0>,<built-in method strip of str object at 0x00000230856198B0>,<built-in method strip of str object at 0x000002308561A1B0>,<built-in method strip of str object at 0x000002308561BF70>,<built-in method strip of str object at 0x000002308562CFD0>
+<built-in method strip of str object at 0x000002308561B370>,<built-in method strip of str object at 0x000002308561B2B0>,<built-in method strip of str object at 0x000002308561A530>,<built-in method strip of str object at 0x000002308561B170>,<built-in method strip of str object at 0x00000230856192B0>,<built-in method strip of str object at 0x000002308561BC70>,<built-in method strip of str object at 0x000002308562C0D0>
+1,Walmart,Retail,"611,289",6.7%,"2,100,000","Bentonville, Arkansas"
+2,Amazon,Retail and cloud computing,"513,983",9.4%,"1,540,000","Seattle, Washington"
+3,ExxonMobil,Petroleum industry,"413,680",44.8%,"62,000","Spring, Texas"
+4,Apple,Electronics industry,"394,328",7.8%,"164,000","Cupertino, California"
+5,UnitedHealth Group,Healthcare,"324,162",12.7%,"400,000","Minnetonka, Minnesota"
+6,CVS Health,Healthcare,"322,467",10.4%,"259,500","Woonsocket, Rhode Island"
+7,Berkshire Hathaway,Conglomerate,"302,089",9.4%,"383,000","Omaha, Nebraska"
+8,Alphabet,Technology and Cloud Computing,"282,836",9.8%,"156,000","Mountain View, California"
+9,McKesson Corporation,Health,"276,711",4.8%,"48,500","Irving, Texas"
+10,Chevron Corporation,Petroleum industry,"246,252",51.6%,"43,846","San Ramon, California"
+11,AmerisourceBergen,Pharmaceutical industry,"238,587",11.5%,"41,500","Chesterbrook, Pennsylvania"
+12,Costco,Retail,"226,954",15.8%,"304,000","Issaquah, Washington"
+13,Microsoft,Technology and Cloud Computing,"198,270",18.0%,"221,000","Redmond, Washington"
+14,Cardinal Health,Healthcare,"181,364",11.6%,"46,035","Dublin, Ohio"
+15,Cigna,Health Insurance,"180,516",3.7%,"70,231","Bloomfield, Connecticut"
+16,Marathon Petroleum,Petroleum industry,"180,012",27.6%,"17,800","Findlay, Ohio"
+17,Phillips 66,Petroleum industry,"175,702",53.0%,"13,000","Houston, Texas"
+18,Valero Energy,Petroleum industry,"171,189",58.0%,"9,743","San Antonio, Texas"
+19,Ford Motor Company,Automotive industry,"158,057",15.9%,"173,000","Dearborn, Michigan"
+20,The Home Depot,Retail,"157,403",4.1%,"471,600","Atlanta, Georgia"
+21,General Motors,Automotive industry,"156,735",23.4%,"167,000","Detroit, Michigan"
+22,Elevance Health,Healthcare,"156,595",13.0%,"102,200","Indianapolis, Indiana"
+23,JPMorgan Chase,Financial services,"154,792",21.7%,"293,723","New York City, New York"
+24,Kroger,Retail,"148,258",7.5%,"430,000","Cincinnati, Ohio"
+25,Centene,Healthcare,"144,547",14.7%,"74,300","St. Louis, Missouri"
+26,Verizon Communications,Telecommunications,"136,835",2.4%,"117,100","New York City, New York"
+27,Walgreens Boots Alliance,Pharmaceutical industry,"132,703",10.7%,"262,500","Deerfield, Illinois"
+28,Fannie Mae,Financials,"121,596",19.7%,"8,000","Washington, D.C."
+29,Comcast,Telecommunications,"121,427",4.3%,"186,000","Philadelphia, Pennsylvania"
+30,AT&T,Conglomerate and Telecomunications,"120,741",28.5%,"160,700","Dallas, Texas"
+31,Meta Platforms,Technology,"116,609",1.1%,"86,482","Menlo Park, California"
+32,Bank of America,Financials,"115,053",22.6%,"216,823","Charlotte, North Carolina"
+33,Target Corporation,Retail,"109,120",2.9%,"440,000","Minneapolis, Minnesota"
+34,Dell Technologies,Technology,"102,301",4.4%,"133,000","Round Rock, Texas"
+35,Archer Daniels Midland,Food industry,"101,556",19.1%,"41,181","Chicago, Illinois"
+36,Citigroup,Financials,"101,078",26.6%,"238,104","New York City, New York"
+37,United Parcel Service,Transportation,"100,338",3.1%,"404,700","Atlanta, Georgia"
+38,Pfizer,Pharmaceutical industry,"100,330",23.4%,"83,000","New York City, New York"
+39,Lowe's,Retail,"97,059",0.8%,"244,500","Mooresville, North Carolina"
+40,Johnson & Johnson,Pharmaceutical industry,"94,943",1.2%,"152,700","New Brunswick, New Jersey"
+41,FedEx,Transportation,"93,512",11.4%,"518,249","Memphis, Tennessee"
+42,Humana,Health Insurance,"92,870",11.8%,"67,100","Louisville, Kentucky"
+43,Energy Transfer Partners,Petroleum industry,"89,876",33.3%,"12,565","Dallas, Texas"
+44,State Farm,Financials,"89,328",8.6%,"60,519","Bloomington, Illinois"
+45,Freddie Mac,Financials,"86,717",31.6%,"7,819","McLean, Virginia"
+46,PepsiCo,Beverage,"86,859",8.7%,"315,000","Purchase, New York"
+47,Wells Fargo,Financials,"82,859",0.5%,"238,000","San Francisco, California"
+48,The Walt Disney Company,Media,"82,722",22.7%,"195,800","Burbank, California"
+49,ConocoPhillips,Petroleum industry,"82,156",69.9%,"9,500","Houston, Texas"
+50,Tesla,Automotive and Energy,"81,462",51.4%,"127,855","Austin, Texas"
+51,Procter & Gamble,Consumer products Manufacturing,"80,187",5.3%,"106,000","Cincinnati, Ohio"
+52,United States Postal Service,Logistics,"78,620",2.0%,"576,000","Washington, D.C."
+53,Albertsons,Retail,"77,650",8.0%,"198,650","Boise, Idaho"
+54,General Electric,Conglomerate,"76,555",3.2%,"172,000","Boston, Massachusetts"
+55,MetLife,Financials,"69,898",1.7%,"45,000","New York City, New York"
+56,Goldman Sachs,Financials,"68,711",5.7%,"48,500","New York City, New York"
+57,Sysco,Food Service,"68,636",33.8%,"70,510","Houston, Texas"
+58,Bunge Limited,Food industry,"67,232",13.7%,"23,000","White Plains, New York"
+59,RTX Corporation,Conglomerate,"67,074",4.2%,"182,000","Arlington County, Virginia"
+60,Boeing,Aerospace and defense,"66,608",6.9%,"156,000","Arlington County, Virginia"
+61,StoneX Group,Financials,"66,036",55.3%,305,"New York City, New York"
+62,Lockheed Martin,Aerospace and Defense,"65,984",1.6%,"116,000","Bethesda, Maryland"
+63,Morgan Stanley,Financials,"65,936",7.9%,"82,427","New York City, New York"
+64,Intel,Technology,"63,054",20.1%,"131,900","Santa Clara, California"
+65,HP,Technology,"62,983",0.8%,"58,000","Palo Alto, California"
+66,TD Synnex,Infotech,"62,344",97.2%,"28,500","Clearwater, Florida"
+67,IBM,Technology and Cloud Computing,"60,530",16.3%,"303,100","Armonk, New York"
+68,HCA Healthcare,Healthcare,"60,233",2.5%,"250,500","Nashville, Tennessee"
+69,Prudential Financial,Financials,"60,050",15.3%,"39,583","Newark, New Jersey"
+70,Caterpillar,Machinery,"59,427",16.6%,"109,100","Deerfield, Illinois"
+71,Merck & Co.,Pharmaceutical industry,"59,283",15.8%,"68,000","Kenilworth, New Jersey"
+72,World Fuel Services,Petroleum industry and Logistics,"59,043",88.4%,"5,214","Miami, Florida"
+73,New York Life Insurance Company,Insurance,"58,445",14.2%,"15,050","New York City, New York"
+74,Enterprise Products,Petroleum industry,"58,186",42.6%,"7,300","Houston, Texas"
+75,AbbVie,Pharmaceutical industry,"58,054",3.3%,"50,000","Lake Bluff, Illinois"
+76,Plains All American Pipeline,Petroleum industry,"57,342",36.3%,"4,100","Houston, Texas"
+77,Dow Chemical Company,Chemical industry,"56,902",3.5%,"37,800","Midland, Michigan"
+78,AIG,Insurance,"56,437",8.4%,"26,200","New York City, New York"
+79,American Express,Financial,"55,625",27.3%,"77,300","New York City, New York"
+80,Publix,Retail,"54,942",13.5%,"242,000","Lakeland, Florida"
+81,Charter Communications,Telecommunications,"54,022",4.5%,"101,700","Stamford, Connecticut"
+82,Tyson Foods,Food Processing,"53,282",13.2%,"142,000","Springdale, Arkansas"
+83,John Deere,Agriculture manufacturing,"52,577",19.4%,"82,239","Moline, Illinois"
+84,Cisco,Telecom Hardware Manufacturing,"51,557",3.5%,"83,300","San Jose, California"
+85,Nationwide Mutual Insurance Company,Financial,"51,450",8.6%,"24,791","Columbus, Ohio"
+86,Allstate,Insurance,"51,412",3.4%,"54,250","Northfield Township, Cook County, Illinois"
+87,Delta Air Lines,Airline,"50,582",69.2%,"95,000","Atlanta, Georgia"
+88,Liberty Mutual,Insurance,"49,956",3.6%,"50,000","Boston, Massachusetts"
+89,TJX,Retail,"49,936",2.9%,"329,000","Framingham, Massachusetts"
+90,Progressive Corporation,Insurance,"49,611",4.0%,"55,063","Mayfield Village, Ohio"
+91,American Airlines,Airline,"48,971",63.9%,"129,700","Fort Worth, Texas"
+92,CHS,Agriculture cooperative,"47,194",24.3%,"10,014","Inver Grove Heights, Minnesota"
+93,Performance Food Group,Food Processing,"47,194",61.6%,"34,825","Richmond, Virginia"
+94,PBF Energy,Petroleum industry,"46,830",71.8%,"3,616","Parsippany–Troy Hills, New Jersey"
+95,Nike,Apparel,"46,710",4.9%,"79,100","Beaverton, Oregon"
+96,Best Buy,Retail,"46,298",10.6%,"71,100","Richfield, Minnesota"
+97,Bristol-Myers Squibb,Pharmaceutical industry,"46,159",0.5%,"34,300","New York City, New York"
+98,United Airlines,Airline,"44,955",82.5%,"92,795","Chicago, Illinois"
+99,Thermo Fisher Scientific,Laboratory instruments,"44,915",14.5%,"130,000","Waltham, Massachusetts"
+100,Qualcomm,Technology,"44,200",31.7%,"51,000","San Diego, California"
